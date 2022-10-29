@@ -330,6 +330,20 @@ areaConfigurations:
 - areaCode: "kz"
 - areaCode: "li"
 - areaCode: "lt"
+  electionConfigurations:
+  - nextElectionDate: "≤2024-10-06"
+    type: Parliament
+  - nextElectionDate: "≈2024-05"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Litauen"
+    en: "Lithuania"
+    eo: "Litovio"
+    fr: "Lituanie"
+    nl: "Litouwen"
+    no: "Litauen"
 - areaCode: "lu"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/luxembourg_polls/"

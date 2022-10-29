@@ -105,6 +105,18 @@ areaConfigurations:
     nl: "Bulgarije"
     no: "Bulgaria"
 - areaCode: "by"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-11"
+    type: Parliament
+  - nextElectionDate: "≤2025-08"
+    type: President
+  translations:
+    de: "Belarus"
+    en: "Belarus"
+    eo: "Belorusio"
+    fr: "Biélorussie"
+    nl: "Wit-Rusland"
+    no: "Belarus"
 - areaCode: "ch"
   electionConfigurations:
   - nextElectionDate: "2023-10-22"

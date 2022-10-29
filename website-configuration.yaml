@@ -106,6 +106,18 @@ areaConfigurations:
     no: "Bulgaria"
 - areaCode: "by"
 - areaCode: "ch"
+  electionConfigurations:
+  - nextElectionDate: "2023-02-05"
+    type: President
+  - nextElectionDate: "2023-10-22"
+    type: Parliament
+  translations:
+    de: "Schweiz"
+    en: "Switzerland"
+    eo: "Svislando"
+    fr: "Suisse"
+    nl: "Zwitserland"
+    no: "Sveits"
 - areaCode: "cy"
   electionConfigurations:
   - nextElectionDate: "2023-02-05"
@@ -425,7 +437,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2024-05"
     type: European Parliament
-  - nextElectionDate: "2022-10-23"
+  - nextElectionDate: "2022-11-13"
     type: President
   translations:
     de: "Slowenien"

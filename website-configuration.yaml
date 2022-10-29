@@ -327,6 +327,18 @@ areaConfigurations:
 - areaCode: "ie"
 - areaCode: "is"
 - areaCode: "it"
+  electionConfigurations:
+  - nextElectionDate: "≤2027-12-22"
+    type: Parliament
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Italien"
+    en: "Italy"
+    eo: "Italio"
+    fr: "Italie"
+    nl: "Italië"
+    no: "Italia"
 - areaCode: "kz"
 - areaCode: "li"
 - areaCode: "lt"

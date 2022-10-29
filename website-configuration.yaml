@@ -372,6 +372,21 @@ areaConfigurations:
 - areaCode: "pl"
 - areaCode: "pt"
 - areaCode: "ro"
+  electionConfigurations:
+  - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/romanian_polls"
+    nextElectionDate: "≤2025-03-21"
+    type: Parliament
+  - nextElectionDate: "≈2024-11"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Rumänien"
+    en: "Romania"
+    eo: "Rumanio"
+    fr: "Roumanie"
+    nl: "Roemenië"
+    no: "Romania"
 - areaCode: "rs"
   csvConfiguration:
     electoralListKeys:
@@ -424,7 +439,7 @@ areaConfigurations:
   -  gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovakian_polls"
      nextElectionDate: "≤2024-02-24"
      type: Parliament
-  -  nextElectionDate: "≤2024-04"
+  -  nextElectionDate: "≈2024-03"
      type: President
   - nextElectionDate: "≈2024-05"
     type: European Parliament

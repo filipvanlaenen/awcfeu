@@ -402,6 +402,18 @@ areaConfigurations:
     nl: "Italië"
     no: "Italia"
 - areaCode: "kz"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-06"
+    type: Parliament
+  - nextElectionDate: "2022-11-20"
+    type: President
+  translations:
+    de: "Kasachstan"
+    en: "Kazakhstan"
+    eo: "Kazaĥio"
+    fr: "Kazakhstan"
+    nl: "Kazachstan"
+    no: "Kasakhstan"
 - areaCode: "li"
 - areaCode: "lt"
   electionConfigurations:

@@ -324,6 +324,18 @@ areaConfigurations:
     no: "Hellas"
 - areaCode: "hr"
 - areaCode: "hu"
+  electionConfigurations:
+  - nextElectionDate: "≤2026-04"
+    type: Parliament
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Ungarn"
+    en: "Hungary"
+    eo: "Hungario"
+    fr: "Hongrie"
+    nl: "Hongarije"
+    no: "Ungarn"
 - areaCode: "ie"
   electionConfigurations:
   - nextElectionDate: "≤2025-03"

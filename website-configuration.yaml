@@ -49,6 +49,17 @@ areaConfigurations:
     fr: "Autriche"
     nl: "Oostenrijk"
     no: "Østerrike"
+- areaCode: "ax"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-10"
+    type: Parliament
+  translations:
+    de: "Åland"
+    en: "Åland"
+    eo: "Alando"
+    fr: "Åland"
+    nl: "Åland"
+    no: "Åland"
 - areaCode: "az"
   electionConfigurations:
   - nextElectionDate: "≤2025-02"

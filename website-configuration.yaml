@@ -277,6 +277,16 @@ areaConfigurations:
     nl: "Verenigd Koninkrijk"
     no: "Det forente kongerike"
 - areaCode: "ge"
+  electionConfigurations:
+  - nextElectionDate: "≤2024-10"
+    type: Parliament
+  translations:
+    de: "Georgien"
+    en: "Georgia"
+    eo: "Kartvelio"
+    fr: "Géorgie"
+    nl: "Georgië"
+    no: "Georgia"
 - areaCode: "gi"
   electionConfigurations:
   - nextElectionDate: "≤2023-10"

@@ -376,6 +376,18 @@ areaConfigurations:
     nl: "Ierland"
     no: "Irland"
 - areaCode: "is"
+  electionConfigurations:
+  - nextElectionDate: "≤2025-09-27"
+    type: Parliament
+  - nextElectionDate: "≈2024-06"
+    type: President
+  translations:
+    de: "Island"
+    en: "Iceland"
+    eo: "Islando"
+    fr: "Islande"
+    nl: "IJsland"
+    no: "Island"
 - areaCode: "it"
   electionConfigurations:
   - nextElectionDate: "≤2027-12-22"

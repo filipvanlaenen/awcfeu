@@ -325,6 +325,20 @@ areaConfigurations:
 - areaCode: "hr"
 - areaCode: "hu"
 - areaCode: "ie"
+  electionConfigurations:
+  - nextElectionDate: "≤2025-03"
+    type: Parliament
+  - nextElectionDate: "≈2025-10"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Irland"
+    en: "Ireland"
+    eo: "Irlando"
+    fr: "Irlande"
+    nl: "Ierland"
+    no: "Irland"
 - areaCode: "is"
 - areaCode: "it"
   electionConfigurations:

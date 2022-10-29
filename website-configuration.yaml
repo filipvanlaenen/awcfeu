@@ -228,6 +228,16 @@ areaConfigurations:
     nl: "Finland"
     no: "Finland"
 - areaCode: "fo"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-08"
+    type: Parliament
+  translations:
+    de: "Färöer"
+    en: "Faroe Islands"
+    eo: "Ferooj"
+    fr: "Îles Féroé"
+    nl: "Faeröer"
+    no: "Færøyene"
 - areaCode: "fr"
   electionConfigurations:
   - nextElectionDate: "≈2027-04"

@@ -323,6 +323,20 @@ areaConfigurations:
     nl: "Griekenland"
     no: "Hellas"
 - areaCode: "hr"
+  electionConfigurations:
+  - nextElectionDate: "≤2024-07-22"
+    type: Parliament
+  - nextElectionDate: "≈2024-12"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Kroatien"
+    en: "Croatia"
+    eo: "Kroatio"
+    fr: "Croatie"
+    nl: "Kroatië"
+    no: "Kroatia"
 - areaCode: "hu"
   electionConfigurations:
   - nextElectionDate: "≤2026-04"

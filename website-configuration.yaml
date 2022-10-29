@@ -107,8 +107,6 @@ areaConfigurations:
 - areaCode: "by"
 - areaCode: "ch"
   electionConfigurations:
-  - nextElectionDate: "2023-02-05"
-    type: President
   - nextElectionDate: "2023-10-22"
     type: Parliament
   translations:
@@ -382,6 +380,20 @@ areaConfigurations:
     no: "Nederland"
 - areaCode: "no"
 - areaCode: "pl"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-10"
+    type: Parliament
+  - nextElectionDate: "≤2025-07"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Polen"
+    en: "Poland"
+    eo: "Pollando"
+    fr: "Pologne"
+    nl: "Polen"
+    no: "Polen"
 - areaCode: "pt"
 - areaCode: "ro"
   electionConfigurations:

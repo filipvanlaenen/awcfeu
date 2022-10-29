@@ -277,6 +277,17 @@ areaConfigurations:
     nl: "Verenigd Koninkrijk"
     no: "Det forente kongerike"
 - areaCode: "ge"
+- areaCode: "gi"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-10"
+    type: Parliament
+  translations:
+    de: "Gibraltar"
+    en: "Gibraltar"
+    eo: "Ĝibraltaro"
+    fr: "Gibraltar"
+    nl: "Gibraltar"
+    no: "Gibraltar"
 - areaCode: "gl"
   csvConfiguration:
     electoralListKeys:

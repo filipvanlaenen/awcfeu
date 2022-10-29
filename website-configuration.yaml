@@ -486,6 +486,18 @@ areaConfigurations:
     no: "Serbia"
 - areaCode: "ru"
 - areaCode: "se"
+  electionConfigurations:
+  - nextElectionDate: "2026-09-13"
+    type: Parliament
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Schweden"
+    en: "Sweden"
+    eo: "Svedio"
+    fr: "Suède"
+    nl: "Zweden"
+    no: "Sverige"
 - areaCode: "si"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovenian_polls"

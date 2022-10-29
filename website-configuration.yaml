@@ -420,6 +420,21 @@ areaConfigurations:
     nl: "Slovenië"
     no: "Slovenia"
 - areaCode: "sk"
+  electionConfigurations:
+  -  gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovakian_polls"
+     nextElectionDate: "≤2024-02-24"
+     type: Parliament
+  -  nextElectionDate: "≤2024-04"
+     type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Slowakei"
+    en: "Slovakia"
+    eo: "Slovakio"
+    fr: "Slovaquie"
+    nl: "Slovakije"
+    no: "Slovakia"
 - areaCode: "sm"
 - areaCode: "tr"
   electionConfigurations:

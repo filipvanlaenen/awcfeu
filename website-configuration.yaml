@@ -439,6 +439,20 @@ areaConfigurations:
     nl: "Polen"
     no: "Polen"
 - areaCode: "pt"
+  electionConfigurations:
+  - nextElectionDate: "≤2026-10-11"
+    type: Parliament
+  - nextElectionDate: "≈2026-01"
+    type: President
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Portugal"
+    en: "Portugal"
+    eo: "Portugalio"
+    fr: "Portugal"
+    nl: "Portugal"
+    no: "Portugal"
 - areaCode: "ro"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/romanian_polls"

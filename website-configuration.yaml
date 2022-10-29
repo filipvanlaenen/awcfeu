@@ -408,6 +408,18 @@ areaConfigurations:
     nl: "Noord-Macedonië"
     no: "Nord-Makedonia"
 - areaCode: "mt"
+  electionConfigurations:
+  - nextElectionDate: "≤2027-03"
+    type: Parliament
+  - nextElectionDate: "≈2024-05"
+    type: European Parliament
+  translations:
+    de: "Malta"
+    en: "Malta"
+    eo: "Malto"
+    fr: "Malte"
+    nl: "Malta"
+    no: "Malta"
 - areaCode: "nl"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/dutch_polls"

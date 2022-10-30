@@ -738,3 +738,13 @@ areaConfigurations:
     nl: "Oekraïne"
     no: "Ukraina"
 - areaCode: "xk"
+  electionConfigurations:
+  - nextElectionDate: "≤2025-02"
+    type: Parliament
+  translations:
+    de: "Kosovo"
+    en: "Kosovo"
+    eo: "Kosovo"
+    fr: "Kosovo"
+    nl: "Kosovo"
+    no: "Kosovo"

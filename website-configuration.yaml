@@ -701,6 +701,16 @@ areaConfigurations:
     nl: "Slovakije"
     no: "Slovakia"
 - areaCode: "sm"
+  electionConfigurations:
+  - nextElectionDate: "≤2024-12"
+    type: Parliament
+  translations:
+    de: "San Marino"
+    en: "San Marino"
+    eo: "San-Marino"
+    fr: "Saint Marin"
+    nl: "San Marino"
+    no: "San Marino"
 - areaCode: "tr"
   electionConfigurations:
   - nextElectionDate: "2023-06-18"

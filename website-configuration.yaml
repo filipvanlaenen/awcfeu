@@ -415,6 +415,16 @@ areaConfigurations:
     nl: "Kazachstan"
     no: "Kasakhstan"
 - areaCode: "li"
+  electionConfigurations:
+  - nextElectionDate: "≤2025-02"
+    type: Parliament
+  translations:
+    de: "Liechtenstein"
+    en: "Liechtenstein"
+    eo: "Liĥtenŝtejno"
+    fr: "Liechtenstein"
+    nl: "Liechtenstein"
+    no: "Liechtenstein"
 - areaCode: "lt"
   electionConfigurations:
   - nextElectionDate: "≤2024-10-06"

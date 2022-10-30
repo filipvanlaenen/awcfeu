@@ -479,6 +479,18 @@ areaConfigurations:
     nl: "Monaco"
     no: "Monaco"
 - areaCode: "md"
+  electionConfigurations:
+  - nextElectionDate: "≤2025-07"
+    type: Parliament
+  - nextElectionDate: "≈2024-11"
+    type: President
+  translations:
+    de: "Moldau"
+    en: "Moldavio"
+    eo: "Moldavia"
+    fr: "Moldavie"
+    nl: "Moldavië"
+    no: "Moldova"
 - areaCode: "me"
   electionConfigurations:
   - nextElectionDate: "≈2023-04"

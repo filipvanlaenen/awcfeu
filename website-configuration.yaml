@@ -557,6 +557,16 @@ areaConfigurations:
     nl: "Nederland"
     no: "Nederland"
 - areaCode: "no"
+  electionConfigurations:
+  - nextElectionDate: "2025-09"
+    type: Parliament
+  translations:
+    de: "Norwegen"
+    en: "Norway"
+    eo: "Norvegio"
+    fr: "Norvège"
+    nl: "Noorwegen"
+    no: "Norge"
 - areaCode: "pl"
   electionConfigurations:
   - nextElectionDate: "≤2023-10"

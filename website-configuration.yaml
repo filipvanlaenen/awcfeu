@@ -725,4 +725,16 @@ areaConfigurations:
     nl: "Turkije"
     no: "Tyrkia"
 - areaCode: "ua"
+  electionConfigurations:
+  - nextElectionDate: "≤2023-10-29"
+    type: Parliament
+  - nextElectionDate: "2024-03-31"
+    type: President
+  translations:
+    de: "Ukraine"
+    en: "Ukraine"
+    eo: "Ukrainio"
+    fr: "Ukraine"
+    nl: "Oekraïne"
+    no: "Ukraina"
 - areaCode: "xk"

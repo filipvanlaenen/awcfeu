@@ -643,6 +643,18 @@ areaConfigurations:
     nl: "Servië"
     no: "Serbia"
 - areaCode: "ru"
+  electionConfigurations:
+  - nextElectionDate: "≤2026-09-20"
+    type: Parliament
+  - nextElectionDate: "2024-03-17"
+    type: President
+  translations:
+    de: "Russland"
+    en: "Russia"
+    eo: "Rusio"
+    fr: "Russie"
+    nl: "Rusland"
+    no: "Russland"
 - areaCode: "se"
   electionConfigurations:
   - nextElectionDate: "2026-09-13"

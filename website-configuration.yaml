@@ -184,7 +184,7 @@ areaConfigurations:
     no: "Tyskland"
 - areaCode: "dk"
   electionConfigurations:
-  - nextElectionDate: "2026-11-01"
+  - nextElectionDate: "≤2026-11-01"
     type: Parliament
   - nextElectionDate: "≈2024-05"
     type: European Parliament

@@ -184,8 +184,7 @@ areaConfigurations:
     no: "Tyskland"
 - areaCode: "dk"
   electionConfigurations:
-  - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/danish_polls"
-    nextElectionDate: "2022-11-01"
+  - nextElectionDate: "2026-11-01"
     type: Parliament
   - nextElectionDate: "≈2024-05"
     type: European Parliament

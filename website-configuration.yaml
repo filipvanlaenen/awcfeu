@@ -404,7 +404,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2023-06"
     type: Parliament
-  - nextElectionDate: "2022-11-20"
+  - nextElectionDate: "≈2029-11"
     type: President
   translations:
     de: "Kasachstan"
@@ -674,7 +674,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2024-05"
     type: European Parliament
-  - nextElectionDate: "2022-11-13"
+  - nextElectionDate: "≈2027-11"
     type: President
   translations:
     de: "Slowenien"

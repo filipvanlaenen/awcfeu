@@ -440,6 +440,21 @@ areaConfigurations:
     nl: "Litouwen"
     no: "Litauen"
 - areaCode: "lu"
+  csvConfiguration:
+    electoralListKeys:
+    - "CSV"
+    - "LSAP"
+    - "DP"
+    - "DG"
+    - "ADR"
+    - "DL"
+    - "PPLU"
+    - "PID"
+    - "KPL"
+    - "DEM"
+    - "DK"
+    - "VOLT"
+    - "FOKUS"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/luxembourg_polls/"
     nextElectionDate: "≤2023-10"

@@ -239,7 +239,7 @@ areaConfigurations:
     no: "Finland"
 - areaCode: "fo"
   electionConfigurations:
-  - nextElectionDate: "2022-12-08"
+  - nextElectionDate: "≤2026-12"
     type: Parliament
   translations:
     de: "Färöer"

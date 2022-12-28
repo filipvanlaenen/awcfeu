@@ -129,6 +129,25 @@ areaConfigurations:
     nl: "Wit-Rusland"
     no: "Belarus"
 - areaCode: "ch"
+  csvConfiguration:
+    electoralListKeys:
+    - "FDP"
+    - "SVP"
+    - "SP"
+    - "DM"
+    - "GPS"
+    - "GLP"
+    - "EVP"
+    - "LEGA"
+    - "EDU"
+    - "CSP"
+    - "PDA"
+    - "MCG"
+    - "CVP"
+    - "BDP"
+    - "FPS"
+    - "SD"
+    - "LPS"
   electionConfigurations:
   - nextElectionDate: "2023-10-22"
     type: Parliament

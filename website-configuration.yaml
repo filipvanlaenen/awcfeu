@@ -35,7 +35,7 @@ areaConfigurations:
     no: "Armenia"
 - areaCode: "at"
   electionConfigurations:
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/austrian_polls"
     nextElectionDate: "≤2024-10-27"
@@ -89,9 +89,9 @@ areaConfigurations:
 - areaCode: "be"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/belgian_polls"
-    nextElectionDate: "≈2024-05"
+    nextElectionDate: "⪅2024-06-09"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Belgien"
@@ -106,7 +106,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2026-11"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Bulgarien"
@@ -164,7 +164,7 @@ areaConfigurations:
     type: President
   - nextElectionDate: "≤2026-06"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Zypern"
@@ -179,7 +179,7 @@ areaConfigurations:
     type: President
   - nextElectionDate: "≤2025-10"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-08"
     type: European Parliament
   translations:
     de: "Tschechien"
@@ -192,7 +192,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2025-10-26"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Deutschland"
@@ -205,7 +205,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2026-11-01"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Dänemark"
@@ -219,7 +219,7 @@ areaConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/estonian_polls"
     nextElectionDate: "2023-03-05"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Estland"
@@ -232,7 +232,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2023-12-10"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Spanien"
@@ -247,7 +247,7 @@ areaConfigurations:
     type: President
   - nextElectionDate: "≤2023-04-02"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Finnland"
@@ -273,7 +273,7 @@ areaConfigurations:
     type: President
   - nextElectionDate: "≤2027-06"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Frankreich"
@@ -341,7 +341,7 @@ areaConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/greek_polls"
     nextElectionDate: "≤2023-07"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Griechenland"
@@ -356,7 +356,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2024-12"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Kroatien"
@@ -369,7 +369,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2026-04"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Ungarn"
@@ -384,7 +384,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2025-10"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-07"
     type: European Parliament
   translations:
     de: "Irland"
@@ -410,7 +410,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2027-12-22"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Italien"
@@ -449,7 +449,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2024-05"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Litauen"
@@ -478,7 +478,7 @@ areaConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/luxembourg_polls/"
     nextElectionDate: "≤2023-10"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Luxemburg"
@@ -489,7 +489,7 @@ areaConfigurations:
     no: "Luxembourg"
 - areaCode: "lv"
   electionConfigurations:
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-08"
     type: European Parliament
   - nextElectionDate: "≤2026-10"
     type: Parliament
@@ -566,7 +566,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≤2027-03"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-08"
     type: European Parliament
   translations:
     de: "Malta"
@@ -580,7 +580,7 @@ areaConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/dutch_polls"
     nextElectionDate: "≤2025-03"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-06"
     type: European Parliament
   translations:
     de: "Niederlande"
@@ -606,7 +606,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≤2025-07"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Polen"
@@ -621,7 +621,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2026-01"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Portugal"
@@ -637,7 +637,7 @@ areaConfigurations:
     type: Parliament
   - nextElectionDate: "≈2024-11"
     type: President
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Rumänien"
@@ -692,7 +692,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "2026-09-13"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   translations:
     de: "Schweden"
@@ -706,7 +706,7 @@ areaConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovenian_polls"
     nextElectionDate: "≤2026-04-24"
     type: Parliament
-  - nextElectionDate: "≈2024-05"
+  - nextElectionDate: "≈2024-06-09"
     type: European Parliament
   - nextElectionDate: "≈2027-11"
     type: President
@@ -719,12 +719,12 @@ areaConfigurations:
     no: "Slovenia"
 - areaCode: "sk"
   electionConfigurations:
-  -  gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovakian_polls"
-     nextElectionDate: "≤2024-02-24"
-     type: Parliament
-  -  nextElectionDate: "≈2024-03"
-     type: President
-  - nextElectionDate: "≈2024-05"
+  - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovakian_polls"
+    nextElectionDate: "≤2024-02-24"
+    type: Parliament
+  - nextElectionDate: "≈2024-03"
+    type: President
+  - nextElectionDate: "≈2024-06-08"
     type: European Parliament
   translations:
     de: "Slowakei"

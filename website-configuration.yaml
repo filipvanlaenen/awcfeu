@@ -1,6 +1,21 @@
 ---
 areaConfigurations:
 - areaCode: "ad"
+  csvConfiguration:
+    electoralListKeys:
+    - "DA"
+    - "PS"
+    - "PS+VDA"
+    - "LA"
+    - "SDP"
+    - "TV"
+    - "TV+UL"
+    - "VDA"
+    - "AS"
+    - "UPA"
+    - "CC"
+    - "AE"
+    - "PODEM"
   electionConfigurations:
   - nextElectionDate: "≤2023-04"
     type: Parliament
@@ -771,6 +786,20 @@ areaConfigurations:
     nl: "Oekraïne"
     no: "Ukraina"
 - areaCode: "xk"
+  csvConfiguration:
+    electoralListKeys:
+    - "LVV"
+    - "LDK"
+    - "PDK"
+    - "AAK"
+    - "СЛ"
+    - "NISMA"
+    - "GUXO"
+    - "A"
+    - "AKR"
+    - "PSD"
+    - "AAK+PSD"
+    - "NISMA+AKR+PD"
   electionConfigurations:
   - nextElectionDate: "≤2025-02"
     type: Parliament

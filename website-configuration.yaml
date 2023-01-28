@@ -190,7 +190,7 @@ areaConfigurations:
     no: "Kypros"
 - areaCode: "cz"
   electionConfigurations:
-  - nextElectionDate: "2023-01-14"
+  - nextElectionDate: "2023-01-28"
     type: President
   - nextElectionDate: "≤2025-10"
     type: Parliament
@@ -459,6 +459,23 @@ areaConfigurations:
     nl: "Liechtenstein"
     no: "Liechtenstein"
 - areaCode: "lt"
+  csvConfiguration:
+    electoralListKeys:
+    - "TSLKD"
+    - "LVŽS"
+    - "TT"
+    - "LSDP"
+    - "LRLS"
+    - "LLRAKŠS"
+    - "LCP"
+    - "DP"
+    - "LŽP"
+    - "LS"
+    - "LRP"
+    - "LP"
+    - "LT"
+    - "DSVL"
+    - "NS"
   electionConfigurations:
   - nextElectionDate: "≤2024-10-06"
     type: Parliament

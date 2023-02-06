@@ -117,7 +117,7 @@ areaConfigurations:
     no: "Belgia"
 - areaCode: "bg"
   electionConfigurations:
-  - nextElectionDate: "≤2026-10"
+  - nextElectionDate: "2023-04-02"
     type: Parliament
   - nextElectionDate: "≈2026-11"
     type: President
@@ -175,7 +175,7 @@ areaConfigurations:
     no: "Sveits"
 - areaCode: "cy"
   electionConfigurations:
-  - nextElectionDate: "2023-02-05"
+  - nextElectionDate: "2023-02-12"
     type: President
   - nextElectionDate: "≤2026-06"
     type: Parliament
@@ -190,7 +190,7 @@ areaConfigurations:
     no: "Kypros"
 - areaCode: "cz"
   electionConfigurations:
-  - nextElectionDate: "2023-01-28"
+  - nextElectionDate: "≤2028-01"
     type: President
   - nextElectionDate: "≤2025-10"
     type: Parliament
@@ -260,7 +260,7 @@ areaConfigurations:
   electionConfigurations:
   - nextElectionDate: "≈2024-01"
     type: President
-  - nextElectionDate: "≤2023-04-02"
+  - nextElectionDate: "2023-04-02"
     type: Parliament
   - nextElectionDate: "≈2024-06-09"
     type: European Parliament
@@ -436,7 +436,7 @@ areaConfigurations:
     no: "Italia"
 - areaCode: "kz"
   electionConfigurations:
-  - nextElectionDate: "≤2023-06"
+  - nextElectionDate: "2023-03-19"
     type: Parliament
   - nextElectionDate: "≈2029-11"
     type: President
@@ -534,7 +534,7 @@ areaConfigurations:
     no: "Latvia"
 - areaCode: "mc"
   electionConfigurations:
-  - nextElectionDate: "2023-02-05"
+  - nextElectionDate: "≤2028-02"
     type: Parliament
   translations:
     de: "Monaco"
@@ -558,7 +558,7 @@ areaConfigurations:
     no: "Moldova"
 - areaCode: "me"
   electionConfigurations:
-  - nextElectionDate: "≈2023-04"
+  - nextElectionDate: "2023-03-19"
     type: President
   - nextElectionDate: "≤2024-08"
     type: Parliament
@@ -752,7 +752,7 @@ areaConfigurations:
 - areaCode: "sk"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/slovakian_polls"
-    nextElectionDate: "≤2024-02-24"
+    nextElectionDate: "2023-09-30"
     type: Parliament
   - nextElectionDate: "≈2024-03"
     type: President
@@ -778,9 +778,9 @@ areaConfigurations:
     no: "San Marino"
 - areaCode: "tr"
   electionConfigurations:
-  - nextElectionDate: "2023-06-18"
+  - nextElectionDate: "2023-05-14"
     type: Parliament
-  - nextElectionDate: "2023-06-18"
+  - nextElectionDate: "2023-05-14"
     type: President
   translations:
     de: "Türkei"

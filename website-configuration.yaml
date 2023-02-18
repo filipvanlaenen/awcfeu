@@ -476,6 +476,8 @@ areaConfigurations:
     - "LT"
     - "DSVL"
     - "NS"
+    - "JL"
+    - "KS"
   electionConfigurations:
   - nextElectionDate: "≤2024-10-06"
     type: Parliament

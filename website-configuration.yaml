@@ -175,7 +175,7 @@ areaConfigurations:
     no: "Sveits"
 - areaCode: "cy"
   electionConfigurations:
-  - nextElectionDate: "2023-02-12"
+  - nextElectionDate: "≈2028-02"
     type: President
   - nextElectionDate: "≤2026-06"
     type: Parliament

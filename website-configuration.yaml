@@ -17,7 +17,7 @@ areaConfigurations:
     - "AE"
     - "PODEM"
   electionConfigurations:
-  - nextElectionDate: "≤2023-04"
+  - nextElectionDate: "2023-04-02"
     type: Parliament
   translations:
     de: "Andorra"

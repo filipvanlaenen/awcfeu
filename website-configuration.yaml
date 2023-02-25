@@ -522,6 +522,27 @@ areaConfigurations:
     nl: "Luxemburg"
     no: "Luxembourg"
 - areaCode: "lv"
+  csvConfiguration:
+    electoralListKeys:
+    - "S"
+    - "PCL"
+    - "K"
+    - "AP"
+    - "NA"
+    - "ZZS"
+    - "JV"
+    - "AS"
+    - "LKS"
+    - "P"
+    - "TKL"
+    - "KUK"
+    - "LPV"
+    - "R"
+    - "SX"
+    - "NST"
+    - "SV"
+    - "KP"
+    - "LA"
   electionConfigurations:
   - nextElectionDate: "≈2024-06-08"
     type: European Parliament

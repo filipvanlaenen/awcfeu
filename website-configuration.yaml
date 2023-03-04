@@ -567,6 +567,16 @@ areaConfigurations:
     nl: "Monaco"
     no: "Monaco"
 - areaCode: "md"
+  csvConfiguration:
+    electoralListKeys:
+    - "PAS"
+    - "BCS"
+    - "ȘOR"
+    - "PN"
+    - "PPDA"
+    - "PDA"
+    - "AUR"
+    - "PSDE"
   electionConfigurations:
   - nextElectionDate: "≤2025-07"
     type: Parliament

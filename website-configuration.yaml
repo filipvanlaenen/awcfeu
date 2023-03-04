@@ -577,6 +577,9 @@ areaConfigurations:
     - "PDA"
     - "AUR"
     - "PSDE"
+    - "PUN"
+    - "PDCM"
+    - "MAN"
   electionConfigurations:
   - nextElectionDate: "≤2025-07"
     type: Parliament

@@ -2,7 +2,7 @@
 areaConfigurations:
 - areaCode: "ad"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "AD001"
     - "AD002"
     - "AD002+AD003"
@@ -145,7 +145,7 @@ areaConfigurations:
     no: "Belarus"
 - areaCode: "ch"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "CH003"
     - "CH001"
     - "CH002"
@@ -333,7 +333,7 @@ areaConfigurations:
     no: "Gibraltar"
 - areaCode: "gl"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "GL002"
     - "GL001"
     - "GL003"
@@ -460,7 +460,7 @@ areaConfigurations:
     no: "Liechtenstein"
 - areaCode: "lt"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "LT002"
     - "LT001"
     - "LT005"
@@ -494,7 +494,7 @@ areaConfigurations:
     no: "Litauen"
 - areaCode: "lu"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "LU001"
     - "LU002"
     - "LU004"
@@ -523,7 +523,7 @@ areaConfigurations:
     no: "Luxembourg"
 - areaCode: "lv"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "LV001"
     - "LV002"
     - "LV003"
@@ -568,7 +568,7 @@ areaConfigurations:
     no: "Monaco"
 - areaCode: "md"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "MD001"
     - "MD002"
     - "MD003"
@@ -607,7 +607,7 @@ areaConfigurations:
     no: "Montenegro"
 - areaCode: "mk"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "MK002"
     - "MK001"
     - "MK003"
@@ -716,7 +716,7 @@ areaConfigurations:
     no: "Romania"
 - areaCode: "rs"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "RS001"
     - "RS003"
     - "RS003+RS014"
@@ -840,7 +840,7 @@ areaConfigurations:
     no: "Ukraina"
 - areaCode: "xk"
   csvConfiguration:
-    electoralListKeys:
+    electoralListIds:
     - "XK002"
     - "XK001"
     - "XK003"

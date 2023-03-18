@@ -232,7 +232,7 @@ areaConfigurations:
 - areaCode: "ee"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/estonian_polls"
-    nextElectionDate: "2023-03-05"
+    nextElectionDate: "≤2027-03-07"
     type: Parliament
   - nextElectionDate: "≈2024-06-09"
     type: European Parliament

@@ -16,6 +16,10 @@ areaConfigurations:
     - "AD011"
     - "AD012"
     - "AD006"
+    - "AD001+AD010+AD011+AD015"
+    - "AD002+AD004"
+    - "AD013"
+    - "AD014"
   electionConfigurations:
   - nextElectionDate: "2023-04-02"
     type: Parliament

@@ -234,6 +234,20 @@ areaConfigurations:
     nl: "Denemarken"
     no: "Danmark"
 - areaCode: "ee"
+  csvConfiguration:
+    electoralListIds:
+    - "EE001"
+    - "EE002"
+    - "EE004"
+    - "EE006"
+    - "EE005"
+    - "EE003"
+    - "EE007"
+    - "EE008"
+    - "EE009"
+    - "EE011"
+    - "EE010"
+    - "EE012"
   electionConfigurations:
   - gitHubWebsiteUrl: "https://filipvanlaenen.github.io/estonian_polls"
     nextElectionDate: "≤2027-03-07"
@@ -276,6 +290,15 @@ areaConfigurations:
     nl: "Finland"
     no: "Finland"
 - areaCode: "fo"
+  csvConfiguration:
+    electoralListIds:
+    - "FO001"
+    - "FO002"
+    - "FO003"
+    - "FO004"
+    - "FO005"
+    - "FO006"
+    - "FO007"
   electionConfigurations:
   - nextElectionDate: "≤2026-12"
     type: Parliament

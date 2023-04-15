@@ -833,13 +833,30 @@ areaConfigurations:
     nl: "Noord-Macedonië"
     no: "Nord-Makedonia"
 - areaCode: "mt"
+  csvConfiguration:
+    electoralListIds:
+    - "MT001"
+    - "MT002"
+    - "MT004"
+    - "MT003"
+    - "MT005"
+    - "MT006"   
   elections:
     european:
       dates:
-        0: "≈2024-06-08"
+        1: "2004-06-12"
+        2: "2009-06-06"
+        3: "2014-05-25"
+        4: "2019-05-25"
+        5: "≈2024-06-08"
     national:
       dates:
-        0: "≤2027-03"
+        10: "2003-04-12"
+        11: "2008-03-08"
+        12: "2013-03-09"
+        13: "2017-06-23"
+        14: "2022-03-26"
+        15: "≤2027-03"
   translations:
     de: "Malta"
     en: "Malta"

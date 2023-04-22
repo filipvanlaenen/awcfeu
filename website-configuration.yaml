@@ -108,6 +108,20 @@ areaConfigurations:
     nl: "Oostenrijk"
     no: "Østerrike"
 - areaCode: "ax"
+  csvConfiguration:
+    electoralListIds:
+    - "AX001"
+    - "AX002"
+    - "AX003"
+    - "AX004"
+    - "AX005"
+    - "AX006"
+    - "AX007"
+    - "AX008"
+    - "AX009"
+    - "AX010"
+    - "AX011"
+    - "AX012"
   elections:
     national:
       dates:

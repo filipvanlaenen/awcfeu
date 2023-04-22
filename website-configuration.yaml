@@ -111,7 +111,12 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2023-10"
+        23: "2003-10-19"
+        24: "2007-10-21"
+        25: "2011-10-16"
+        26: "2015-10-18"
+        27: "2019-10-20"
+        28: "2023-10-15"
   translations:
     de: "Åland"
     en: "Åland"

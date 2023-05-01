@@ -410,6 +410,9 @@ areaConfigurations:
         13: "2019-04-28"
         14: "2019-11-10"
         15: "≤2023-12-10"
+  pollingFirmsNotIncluded:
+    "ElectoPanel": notAPollingFirm
+    "Key Data": estimation
   translations:
     de: "Spanien"
     en: "Spain"

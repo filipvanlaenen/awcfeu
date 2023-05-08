@@ -421,6 +421,19 @@ areaConfigurations:
     nl: "Spanje"
     no: "Spania"
 - areaCode: "fi"
+  csvConfiguration:
+    electoralListIds:
+    - "FI003"
+    - "FI001"
+    - "FI006"
+    - "FI002"
+    - "FI004"
+    - "FI005"
+    - "FI007"
+    - "FI008"
+    - "FI009"
+    - "FI010"
+    - "FI011"
   elections:
     european:
       dates:

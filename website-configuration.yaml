@@ -592,6 +592,32 @@ areaConfigurations:
     nl: "Griekenland"
     no: "Hellas"
 - areaCode: "hr"
+  csvConfiguration:
+    electoralListIds:
+    - "HR001"
+    - "HR002"
+    - "HR004"
+    - "HR003"
+    - "HR007"
+    - "HR005"
+    - "HR006"
+    - "HR008"
+    - "HR009"
+    - "HR014"
+    - "HR011"
+    - "HR010"
+    - "HR015"
+    - "HR016"
+    - "HR017"
+    - "HR018"
+    - "HR012"
+    - "HR013"
+    - "HR019"
+    - "HR023"
+    - "HR021"
+    - "HR024"
+    - "HR020"
+    - "HR022"
   elections:
     european:
       dates:

@@ -668,6 +668,17 @@ areaConfigurations:
     nl: "Ierland"
     no: "Irland"
 - areaCode: "is"
+  csvConfiguration:
+    electoralListIds:
+    - "IS001"
+    - "IS003"
+    - "IS002"
+    - "IS004"
+    - "IS006"
+    - "IS005"
+    - "IS007"
+    - "IS008"
+    - "IS009"
   elections:
     national:
       dates:

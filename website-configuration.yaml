@@ -75,6 +75,19 @@ areaConfigurations:
     nl: "Armenië"
     no: "Armenia"
 - areaCode: "at"
+  csvConfiguration:
+    electoralListIds:
+    - "AT001"
+    - "AT002"
+    - "AT003"
+    - "AT004"
+    - "AT006"
+    - "AT005"
+    - "AT007"
+    - "AT008"
+    - "AT009"
+    - "AT010"
+    - "AT011"
   elections:
     european:
       dates:

@@ -113,6 +113,8 @@ areaConfigurations:
         13: "2016-04-24+(2016-05-22)+2016-12-04"
         14: "2022-10-09"
         15: "≈2028-10"
+  pollingFirmsNotIncluded:
+    "Research Affairs": fraudAllegations
   translations:
     de: "Österreich"
     en: "Austria"

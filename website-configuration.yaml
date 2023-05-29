@@ -424,7 +424,7 @@ areaConfigurations:
         12: "2016-06-26"
         13: "2019-04-28"
         14: "2019-11-10"
-        15: "≤2023-12-10"
+        15: "2023-07-23"
   pollingFirmsNotIncluded:
     "ElectoPanel": notAPollingFirm
     "Key Data": estimation
@@ -598,7 +598,7 @@ areaConfigurations:
         17: "2015-09-20"
         18: "2019-07-07"
         19: "2023-05-21"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/greek_polls"
+        20: "2023-06-25"
   translations:
     de: "Griechenland"
     en: "Greece"

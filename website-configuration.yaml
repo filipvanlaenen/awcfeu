@@ -1042,6 +1042,25 @@ areaConfigurations:
     nl: "Nederland"
     no: "Nederland"
 - areaCode: "no"
+  csvConfiguration:
+    electoralListIds:
+    - "NO009"
+    - "NO005"
+    - "NO008"
+    - "NO002"
+    - "NO004"
+    - "NO006"
+    - "NO007"
+    - "NO001"
+    - "NO003"
+    - "NO010"
+    - "NO011"
+    - "NO012"
+    - "NO013"
+    - "NO014"
+    - "NO015"
+    - "NO016"
+    - "NO017"
   elections:
     national:
       dates:

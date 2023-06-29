@@ -980,6 +980,8 @@ areaConfigurations:
     - "MK007"
     - "MK007+MK004"
     - "MK009+MK010"
+    - "MK002+MK003"
+    - "MK011"
   elections:
     national:
       dates:

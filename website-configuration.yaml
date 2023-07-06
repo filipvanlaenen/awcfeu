@@ -1128,6 +1128,26 @@ areaConfigurations:
     nl: "Portugal"
     no: "Portugal"
 - areaCode: "ro"
+  csvConfiguration:
+    electoralListIds:
+    - "RO001"
+    - "RO004"
+    - "RO002"
+    - "RO003"
+    - "RO005"
+    - "RO006"
+    - "RO007"
+    - "RO008"
+    - "RO009"
+    - "RO010"
+    - "RO011"
+    - "RO013"
+    - "RO014"
+    - "RO015"
+    - "RO016"
+    - "RO017"
+    - "RO012"
+    - "RO018"
   elections:
     european:
       dates:

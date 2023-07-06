@@ -1,0 +1,19 @@
+---
+definedElectoralLists:
+  a: "FO001"
+  b: "FO003"
+  c: "FO002"
+  d: "FO007"
+  e: "FO004"
+  f: "FO005"
+  h: "FO006"
+electoralSystem:
+  numberOfSeats: 33
+results:
+  c: 9094
+  b: 6834
+  a: 6473
+  e: 6057
+  f: 2571
+  h: 2242
+  d: 938

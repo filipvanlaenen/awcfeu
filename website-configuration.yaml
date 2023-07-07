@@ -302,6 +302,26 @@ areaConfigurations:
     nl: "Cyprus"
     no: "Kypros"
 - areaCode: "cz"
+  csvConfiguration:
+    electoralListIds:
+    - "CZ001"
+    - "CZ003"
+    - "CZ002"
+    - "CZ004"
+    - "CZ005"
+    - "CZ006"
+    - "CZ009"
+    - "CZ008"
+    - "CZ007"
+    - "CZ011"
+    - "CZ010"
+    - "CZ012"
+    - "CZ007+CZ008+CZ010"
+    - "CZ013"
+    - "CZ002+CZ007"
+    - "CZ011+CZ012+CZ015"
+    - "CZ014"
+    - "CZ016"
   elections:
     european:
       dates:

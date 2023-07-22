@@ -332,6 +332,8 @@ areaConfigurations:
     presidential:
       dates:
         0: "≤2028-01"
+  pollingFirmsNotIncluded:
+    "Sanep": doesNotFollowStandardMethodologicalRules
   translations:
     de: "Tschechien"
     en: "Czechia"

@@ -1073,7 +1073,7 @@ areaConfigurations:
         0: "≈2024-06-06"
     national:
       dates:
-        0: "≤2025-03"
+        0: "2023-11-22"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/dutch_polls"
   translations:
     de: "Niederlande"
@@ -1295,6 +1295,11 @@ areaConfigurations:
     - "SK015"
     - "SK016"
     - "SK017"
+    - "SK013+SK015"
+    - "SK018"
+    - "SK008+SK018"
+    - "SK003+SK012+SK019"
+    - "SK019"
   elections:
     european:
       dates:

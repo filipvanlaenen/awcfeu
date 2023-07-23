@@ -1256,6 +1256,29 @@ areaConfigurations:
     nl: "Zweden"
     no: "Sverige"
 - areaCode: "si"
+  csvConfiguration:
+    electoralListIds:
+    - "SI001"
+    - "SI003"
+    - "SI004"
+    - "SI005"
+    - "SI002"
+    - "SI006"
+    - "SI007"
+    - "SI009"
+    - "SI008"
+    - "SI010"
+    - "SI011"
+    - "SI012"
+    - "SI013"
+    - "SI017"
+    - "SI018"
+    - "SI014"
+    - "SI016"
+    - "SI015"
+    - "SI019"
+    - "SI021"
+    - "SI020"
   elections:
     european:
       dates:

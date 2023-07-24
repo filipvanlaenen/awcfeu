@@ -57,6 +57,14 @@ areaConfigurations:
     nl: "Albanië"
     no: "Albania"
 - areaCode: "am"
+  csvConfiguration:
+    electoralListIds:
+    - "AM001"
+    - "AM002"
+    - "AM003"
+    - "AM004"
+    - "AM005"
+    - "AM006"
   elections:
     national:
       dates:

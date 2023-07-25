@@ -75,6 +75,8 @@ areaConfigurations:
         7: "2018-12-09"
         8: "2021-06-20"
         9: "≤2026-06"
+  pollingFirmsNotIncluded:
+    "ВЦИОМ": fundedByAnAuthoritarianGovernment
   translations:
     de: "Armenien"
     en: "Armenia"

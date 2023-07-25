@@ -73,6 +73,9 @@ areaConfigurations:
     - "AM012"
     - "AM013"
     - "AM014"
+    - "AM015"
+    - "AM016"
+    - "AM017"
   elections:
     national:
       dates:

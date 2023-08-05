@@ -178,6 +178,7 @@ areaConfigurations:
     nl: "Åland"
     no: "Åland"
 - areaCode: "az"
+  # Should be synchronized between Asia and Europe
   elections:
     national:
       dates:
@@ -590,6 +591,7 @@ areaConfigurations:
     nl: "Verenigd Koninkrijk"
     no: "Det forente kongerike"
 - areaCode: "ge"
+  # Should be synchronized between Asia and Europe
   elections:
     national:
       dates:
@@ -781,6 +783,7 @@ areaConfigurations:
     nl: "Italië"
     no: "Italia"
 - areaCode: "kz"
+  # Should be synchronized between Asia and Europe
   elections:
     national:
       dates:
@@ -1250,6 +1253,7 @@ areaConfigurations:
     nl: "Servië"
     no: "Serbia"
 - areaCode: "ru"
+  # Should be synchronized between Asia and Europe
   elections:
     national:
       dates:
@@ -1378,6 +1382,7 @@ areaConfigurations:
     nl: "San Marino"
     no: "San Marino"
 - areaCode: "tr"
+  # Should be synchronized between Asia and Europe
   elections:
     national:
       dates:

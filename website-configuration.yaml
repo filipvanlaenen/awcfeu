@@ -1281,6 +1281,16 @@ areaConfigurations:
     nl: "Rusland"
     no: "Russland"
 - areaCode: "se"
+  csvConfiguration:
+    electoralListIds:
+    - "SE001"
+    - "SE002"
+    - "SE003"
+    - "SE004"
+    - "SE005"
+    - "SE006"
+    - "SE007"
+    - "SE008"
   elections:
     european:
       dates:

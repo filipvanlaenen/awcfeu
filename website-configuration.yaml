@@ -382,6 +382,25 @@ areaConfigurations:
     nl: "Duitsland"
     no: "Tyskland"
 - areaCode: "dk"
+  csvConfiguration:
+    electoralListIds:
+    - "DK001"
+    - "DK003"
+    - "DK002"
+    - "DK004"
+    - "DK006"
+    - "DK007"
+    - "DK005"
+    - "DK008"
+    - "DK009"
+    - "DK010"
+    - "DK011"
+    - "DK012"
+    - "DK013"
+    - "DK014"
+    - "DK015"
+    - "DK016"
+    - "DK017"
   elections:
     european:
       dates:

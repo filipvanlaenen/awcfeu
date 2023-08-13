@@ -656,6 +656,25 @@ areaConfigurations:
     nl: "Groenland"
     no: "Grønland"
 - areaCode: "gr"
+  csvConfiguration:
+    electoralListIds:
+    - "GR002"
+    - "GR001"
+    - "GR004"
+    - "GR003"
+    - "GR005"
+    - "GR010"
+    - "GR007"
+    - "GR006"
+    - "GR008"
+    - "GR009"
+    - "GR011"
+    - "GR012"
+    - "GR013"
+    - "GR014"
+    - "GR015"
+    - "GR016"
+    - "GR017"
   elections:
     european:
       dates:

@@ -597,6 +597,18 @@ areaConfigurations:
     nl: "Frankrijk"
     no: "Frankrike"
 - areaCode: "gb"
+  csvConfiguration:
+    electoralListIds:
+    - "GB002"
+    - "GB001"
+    - "GB003"
+    - "GB004"
+    - "GB005"
+    - "GB004+GB005"
+    - "GB006"
+    - "GB007+GB008"
+    - "GB009"
+    - "GB010"
   elections:
     national:
       dates:

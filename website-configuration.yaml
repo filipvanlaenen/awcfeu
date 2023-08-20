@@ -1356,6 +1356,8 @@ areaConfigurations:
     national:
       dates:
         0: "2026-09-13"
+  pollingFirmsNotIncluded:
+    "Sentio": doesNotFollowStandardMethodologicalRules
   translations:
     de: "Schweden"
     en: "Sweden"

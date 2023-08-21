@@ -1428,7 +1428,6 @@ areaConfigurations:
     - "SK015"
     - "SK016"
     - "SK017"
-    - "SK013+SK015"
     - "SK018"
     - "SK008+SK018"
     - "SK003+SK012+SK019"

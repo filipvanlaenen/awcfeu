@@ -1443,6 +1443,8 @@ areaConfigurations:
     presidential:
       dates:
         0: "≈2024-03"
+  pollingFirmsNotIncluded:
+    "Sanep": doesNotFollowStandardMethodologicalRules
   translations:
     de: "Slowakei"
     en: "Slovakia"

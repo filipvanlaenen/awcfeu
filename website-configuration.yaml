@@ -367,6 +367,18 @@ areaConfigurations:
     nl: "Tsjechië"
     no: "Tsjekkia"
 - areaCode: "de"
+  csvConfiguration:
+    electoralListIds:
+    - "DE001+DE002"
+    - "DE003"
+    - "DE008"
+    - "DE004"
+    - "DE005"
+    - "DE006"
+    - "DE001"
+    - "DE002"
+    - "DE007"
+    - "DE009"
   elections:
     european:
       dates:

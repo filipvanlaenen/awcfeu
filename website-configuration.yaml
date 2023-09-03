@@ -1211,6 +1211,29 @@ areaConfigurations:
     nl: "Noorwegen"
     no: "Norge"
 - areaCode: "pl"
+  csvConfiguration:
+    electoralListIds:
+    - "PL001"
+    - "PL002"
+    - "PL005"
+    - "PL006"
+    - "PL004"
+    - "PL003"
+    - "PL009"
+    - "PL008"
+    - "PL007"
+    - "PL011"
+    - "PL012"
+    - "PL013"
+    - "PL014"
+    - "PL015"
+    - "PL016"
+    - "PL010"
+    - "PL017"
+    - "PL018"
+    - "PL019"
+    - "PL018+PL019"
+    - "PL020"
   elections:
     european:
       dates:

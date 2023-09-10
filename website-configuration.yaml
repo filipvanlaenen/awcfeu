@@ -1502,6 +1502,21 @@ areaConfigurations:
     no: "San Marino"
 - areaCode: "tr"
   # Should be synchronized between Asia and Europe
+  csvConfiguration:
+    electoralListIds:
+    - "TR001"
+    - "TR002"
+    - "TR004"
+    - "TR003"
+    - "TR005"
+    - "TR006"
+    - "TR008"
+    - "TR007"
+    - "TR010"
+    - "TR009"
+    - "TR011"
+    - "TR012"
+    - "TR013"
   elections:
     national:
       dates:

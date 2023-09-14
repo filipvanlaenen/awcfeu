@@ -1164,6 +1164,32 @@ areaConfigurations:
     nl: "Malta"
     no: "Malta"
 - areaCode: "nl"
+  csvConfiguration:
+    electoralListIds:
+    - "NL001"
+    - "NL003"
+    - "NL004"
+    - "NL002"
+    - "NL005"
+    - "NL006"   
+    - "NL007"   
+    - "NL009"   
+    - "NL008"   
+    - "NL010"
+    - "NL011"
+    - "NL013"
+    - "NL012"
+    - "NL015"
+    - "NL014"
+    - "NL018"   
+    - "NL017"   
+    - "NL016"   
+    - "NL019"   
+    - "NL020"
+    - "NL021"
+    - "NL022"
+    - "NL005+NL007"
+    - "NL023"
   elections:
     european:
       dates:

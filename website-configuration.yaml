@@ -1262,6 +1262,7 @@ areaConfigurations:
     - "PL018+PL019"
     - "PL020"
     - "PL021"
+    - "PL022"
   elections:
     european:
       dates:

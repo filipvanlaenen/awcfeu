@@ -647,10 +647,16 @@ areaConfigurations:
     nl: "Georgië"
     no: "Georgia"
 - areaCode: "gi"
+  csvConfiguration:
+    electoralListIds:
+    - "GI001+GI002"
+    - "GI003"
+    - "GI004"
+    - "GI005"
   elections:
     national:
       dates:
-        0: "≤2023-10"
+        0: "2023-10-12"
   translations:
     de: "Gibraltar"
     en: "Gibraltar"

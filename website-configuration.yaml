@@ -778,6 +778,23 @@ areaConfigurations:
     nl: "Kroatië"
     no: "Kroatia"
 - areaCode: "hu"
+  csvConfiguration:
+    electoralListIds:
+    - "HU001+HU002"
+    - "HU003"
+    - "HU004+HU005"
+    - "HU006"
+    - "HU007"
+    - "HU008"
+    - "HU011"
+    - "HU012"
+    - "HU009"
+    - "HU004"
+    - "HU005"
+    - "HU010"
+    - "HU013"
+    - "HU014"
+    - "HU015"
   elections:
     european:
       dates:

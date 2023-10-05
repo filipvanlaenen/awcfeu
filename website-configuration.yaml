@@ -795,6 +795,7 @@ areaConfigurations:
     - "HU013"
     - "HU014"
     - "HU015"
+    - "HU016"
   elections:
     european:
       dates:

@@ -225,6 +225,33 @@ areaConfigurations:
     nl: "België"
     no: "Belgia"
 - areaCode: "bg"
+  csvConfiguration:
+    electoralListIds:
+    - "BG001"
+    - "BG017"
+    - "BG002"
+    - "BG003"
+    - "BG012"
+    - "BG014"
+    - "BG013"
+    - "BG008"
+    - "BG004"
+    - "BG005"
+    - "BG006"
+    - "BG010"
+    - "BG007"
+    - "BG009"
+    - "BG015"
+    - "BG016"
+    - "BG011"
+    - "BG018"
+    - "BG005+BG014"
+    - "BG019"
+    - "BG020"
+    - "BG021"
+    - "BG023"
+    - "BG024"
+    - "BG022"
   elections:
     european:
       dates:

@@ -839,6 +839,18 @@ areaConfigurations:
     nl: "Hongarije"
     no: "Ungarn"
 - areaCode: "ie"
+  csvConfiguration:
+    electoralListIds:
+    - "IE001"
+    - "IE002"
+    - "IE003"
+    - "IE007"
+    - "IE006"
+    - "IE005"
+    - "IE008"
+    - "IE010"
+    - "IE009"
+    - "IE004"
   elections:
     european:
       dates:

@@ -662,6 +662,27 @@ areaConfigurations:
     no: "Det forente kongerike"
 - areaCode: "ge"
   # Should be synchronized between Asia and Europe
+  csvConfiguration:
+    electoralListIds:
+    - "GE001"
+    - "GE002"
+    - "GE006"
+    - "GE004"
+    - "GE003"
+    - "GE011"
+    - "GE009"
+    - "GE008"
+    - "GE005"
+    - "GE007"
+    - "GE010"
+    - "GE012"
+    - "GE013"
+    - "GE014"
+    - "GE015"
+    - "GE016"
+    - "GE017"
+    - "GE018"
+    - "GE014+GE015"
   elections:
     national:
       dates:

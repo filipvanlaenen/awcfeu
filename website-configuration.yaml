@@ -293,7 +293,7 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2023-11"
+        0: "2024-02-25"
     presidential:
       dates:
         0: "≤2025-08"

@@ -336,6 +336,19 @@ areaConfigurations:
     nl: "Zwitserland"
     no: "Sveits"
 - areaCode: "cy"
+  csvConfiguration:
+    electoralListIds:
+    - "CY001"
+    - "CY002"
+    - "CY003"
+    - "CY004"
+    - "CY005"
+    - "CY006"
+    - "CY007"
+    - "CY008"
+    - "CY009"
+    - "CY005+CY006"
+    - "CY010"
   elections:
     european:
       dates:

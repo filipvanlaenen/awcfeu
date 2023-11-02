@@ -1519,6 +1519,15 @@ areaConfigurations:
     no: "Serbia"
 - areaCode: "ru"
   # Should be synchronized between Asia and Europe
+  csvConfiguration:
+    electoralListIds:
+    - "RU001"
+    - "RU002"
+    - "RU003"
+    - "RU004"
+    - "RU007"
+    - "RU005"
+    - "RU006"
   elections:
     national:
       dates:
@@ -1526,6 +1535,9 @@ areaConfigurations:
     presidential:
       dates:
         0: "2024-03-17"
+  pollingFirmsNotIncluded:
+    "ВЦИОМ": fundedByAnAuthoritarianGovernment
+    "ФОМ": fundedByAnAuthoritarianGovernment
   translations:
     de: "Russland"
     en: "Russia"

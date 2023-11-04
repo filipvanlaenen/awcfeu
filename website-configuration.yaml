@@ -631,6 +631,25 @@ areaConfigurations:
     nl: "Faeröer"
     no: "Færøyene"
 - areaCode: "fr"
+  csvConfiguration:
+    electoralListIds:
+    - "FR016"
+    - "FR013"
+    - "FR010"
+    - "FR003"
+    - "FR014"
+    - "FR007"
+    - "FR005"
+    - "FR001"
+    - "FR008+FR009"
+    - "FR015"
+    - "FR004"
+    - "FR006"
+    - "FR002"
+    - "FR011"
+    - "FR012"
+    - "FR017"
+    - "FR018"
   elections:
     european:
       dates:

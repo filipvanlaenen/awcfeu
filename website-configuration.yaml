@@ -39,6 +39,13 @@ areaConfigurations:
     nl: "Andorra"
     no: "Andorra"
 - areaCode: "al"
+  csvConfiguration:
+    electoralListIds:
+    - "AL001"
+    - "AL002"
+    - "AL005"
+    - "AL003"
+    - "AL004"
   elections:
     national:
       dates:

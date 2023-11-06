@@ -1534,7 +1534,7 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2026-04-03"
+        0: "2023-12-17"
     presidential:
       dates:
         0: "≤2027-04-03"

@@ -226,6 +226,65 @@ areaConfigurations:
       dates:
         0: "⪅2024-06-09"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/belgian_polls"
+  subdivisions:
+  - areaCode: "bru"
+    csvConfiguration:
+      electoralListIds:
+      - "BE008"
+      - "BE009"
+      - "BE013"
+      - "BE010"
+      - "BE011"
+      - "BE007"
+      - "BE001"
+      - "BE003"
+      - "BE004"
+      - "BE012"
+      - "BE002"
+      - "BE005"
+      - "BE006"
+    translations:
+      de: "Brüssel"
+      en: "Brussels"
+      eo: "Bruselo"
+      fr: "Bruxelles"
+      nl: "Brussel"
+      no: "Brussel"
+  - areaCode: "vlg"
+    csvConfiguration:
+      electoralListIds:
+      - "BE001"
+      - "BE002"
+      - "BE003"
+      - "BE004"
+      - "BE005"
+      - "BE006"
+      - "BE007"
+    translations:
+      de: "Flandern"
+      en: "Flanders"
+      eo: "Flandrio"
+      fr: "Flandre"
+      nl: "Vlaanderen"
+      no: "Flandern"
+  - areaCode: "wal"
+    csvConfiguration:
+      electoralListIds:
+      - "BE008"
+      - "BE009"
+      - "BE011"
+      - "BE010"
+      - "BE007"
+      - "BE012"
+      - "BE013"
+      - "BE014"
+    translations:
+      de: "Wallonien"
+      en: "Wallonia"
+      eo: "Valonio"
+      fr: "Wallonie"
+      nl: "Wallonië"
+      no: "Vallonia"
   translations:
     de: "Belgien"
     en: "Belgium"

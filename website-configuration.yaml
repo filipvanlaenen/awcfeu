@@ -487,6 +487,7 @@ areaConfigurations:
     - "DE002"
     - "DE007"
     - "DE009"
+    - "DE010"
   elections:
     european:
       dates:

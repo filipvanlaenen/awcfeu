@@ -910,6 +910,7 @@ areaConfigurations:
     - "HR022"
     - "HR024"
     - "HR025"
+    - "HR026"
   elections:
     european:
       dates:

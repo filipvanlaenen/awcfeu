@@ -1493,6 +1493,8 @@ areaConfigurations:
     presidential:
       dates:
         0: "≤2025-07"
+  pollingFirmsNotIncluded:
+    "CBOS": closeTiesToAPoliticalParty
   translations:
     de: "Polen"
     en: "Poland"

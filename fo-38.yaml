@@ -1,3 +1,4 @@
 ---
 electoralSystem:
   numberOfSeats: 33
+  threshold: 3.03030

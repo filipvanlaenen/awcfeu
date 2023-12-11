@@ -1,0 +1,4 @@
+---
+electoralSystem:
+  numberOfSeats: 183
+  threshold: 4

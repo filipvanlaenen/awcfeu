@@ -278,6 +278,8 @@ areaConfigurations:
       - "BE012"
       - "BE013"
       - "BE014"
+      - "BE015"
+      - "BE001"
     translations:
       de: "Wallonien"
       en: "Wallonia"

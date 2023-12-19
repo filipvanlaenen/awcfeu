@@ -1698,6 +1698,7 @@ areaConfigurations:
     - "SI019"
     - "SI021"
     - "SI020"
+    - "SI022"
   elections:
     european:
       dates:

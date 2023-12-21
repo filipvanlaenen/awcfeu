@@ -557,6 +557,7 @@ areaConfigurations:
     - "EE011"
     - "EE010"
     - "EE012"
+    - "EE013"
   elections:
     european:
       dates:
@@ -722,6 +723,8 @@ areaConfigurations:
     - "FR017"
     - "FR018"
     - "FR019+FR020"
+    - "FR021"
+    - "FR019"
   elections:
     european:
       dates:

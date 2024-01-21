@@ -419,6 +419,9 @@ areaConfigurations:
     - "CY009"
     - "CY005+CY006"
     - "CY010"
+    - "CY011"
+    - "CY012"
+    - "CY012+CY013"
   elections:
     european:
       dates:
@@ -1529,6 +1532,7 @@ areaConfigurations:
     - "PT009"
     - "PT007"
     - "PT010"
+    - "PT011"
   elections:
     european:
       dates:

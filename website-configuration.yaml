@@ -728,6 +728,9 @@ areaConfigurations:
     - "FR019+FR020"
     - "FR021"
     - "FR019"
+    - "FR013+FR016"
+    - "FR022"
+    - "FR023"
   elections:
     european:
       dates:

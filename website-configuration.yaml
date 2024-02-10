@@ -460,6 +460,8 @@ areaConfigurations:
     - "CZ011+CZ012+CZ015"
     - "CZ014"
     - "CZ016"
+    - "CZ004+CZ012"
+    - "CZ017"
   elections:
     european:
       dates:

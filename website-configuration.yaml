@@ -495,6 +495,11 @@ areaConfigurations:
     - "DE007"
     - "DE009"
     - "DE010"
+    - "DE011"
+    - "DE012"
+    - "DE013"
+    - "DE014"
+    - "DE015"
   elections:
     european:
       dates:

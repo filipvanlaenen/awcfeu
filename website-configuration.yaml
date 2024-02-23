@@ -1139,6 +1139,7 @@ areaConfigurations:
     - "LT015"
     - "LT016"
     - "LT017"
+    - "LT018"
   elections:
     european:
       dates:

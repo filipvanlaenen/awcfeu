@@ -1218,6 +1218,8 @@ areaConfigurations:
     - "LV017"
     - "LV018"
     - "LV019"
+    - "LV020"
+    - "LV021"
   elections:
     european:
       dates:

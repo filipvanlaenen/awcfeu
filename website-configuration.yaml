@@ -250,6 +250,26 @@ areaConfigurations:
       fr: "Bruxelles"
       nl: "Brussel"
       no: "Brussel"
+  - areaCode: "frc"
+    csvConfiguration:
+      electoralListIds:
+      - "BE008"
+      - "BE009"
+      - "BE011"
+      - "BE010"
+      - "BE007"
+      - "BE012"
+      - "BE013"
+      - "BE014"
+      - "BE015"
+      - "BE001"
+    translations:
+      de: "Französische Gemeinschaft"
+      en: "French Community"
+      eo: "Franclingva Komunumo"
+      fr: "Communauté française"
+      nl: "Franse Gemeenschap"
+      no: "Fransk språkområde"
   - areaCode: "vlg"
     csvConfiguration:
       electoralListIds:

@@ -789,11 +789,32 @@ areaConfigurations:
     - "GB007+GB008"
     - "GB009"
     - "GB010"
+    includeAreaAsNational: GBN
   elections:
     national:
       dates:
         0: "≤2025-01"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/british_polls"
+  subdivisions:
+  - areaCode: "nir"
+    csvConfiguration:
+      electoralListIds:
+      - "GB011"
+      - "IE003"
+      - "GB013"
+      - "GB012"
+      - "GB014"
+      - "GB016"
+      - "GB015"
+      - "IE006"
+      - "IE010"
+    translations:
+      de: "Nordirland"
+      en: "Northern Ireland"
+      eo: "Nord-Irlando"
+      fr: "Irlande du Nord"
+      nl: "Noord-Ierland"
+      no: "Nord-Irland"
   translations:
     de: "Vereinigtes Königreich"
     en: "United Kingdom"
@@ -1916,6 +1937,7 @@ areaConfigurations:
     - "XK005"
     - "XK004+XK005"
     - "XK006+XK007+XK008"
+    includeAreaAsNational: SQ
   elections:
     national:
       dates:

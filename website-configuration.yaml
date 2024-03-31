@@ -1371,6 +1371,7 @@ areaConfigurations:
     - "ME003+ME009"
     - "ME004+ME005"
     - "ME012+ME025"
+    - "ME022+ME023+ME028"
   elections:
     national:
       dates:

@@ -1411,6 +1411,7 @@ areaConfigurations:
     - "MK002+MK003"
     - "MK011"
     - "MK012"
+    - "MK006+MK007+MK012"
   elections:
     national:
       dates:

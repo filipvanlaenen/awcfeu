@@ -1009,6 +1009,7 @@ areaConfigurations:
     - "HU015"
     - "HU016"
     - "HU017"
+    - "HU018"
     - "HU004+HU005+HU006"
   elections:
     european:

@@ -1111,6 +1111,8 @@ areaConfigurations:
     - "IT023"
     - "IT024"
     - "IT025"
+    - "IT026"
+    - "IT027"
   elections:
     european:
       dates:

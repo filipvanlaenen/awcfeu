@@ -915,6 +915,12 @@ areaConfigurations:
     - "GR015"
     - "GR016"
     - "GR017"
+    - "GR018"
+    - "GR019"
+    - "GR020"
+    - "GR021"
+    - "GR022"
+    - "GR023"
   elections:
     european:
       dates:

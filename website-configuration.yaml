@@ -845,6 +845,7 @@ areaConfigurations:
     - "GE017"
     - "GE018"
     - "GE014+GE015"
+    - "GE019"
   elections:
     national:
       dates:
@@ -1445,7 +1446,8 @@ areaConfigurations:
     - "MT004"
     - "MT003"
     - "MT005"
-    - "MT006"   
+    - "MT006"
+    - "MT007" 
   elections:
     european:
       dates:

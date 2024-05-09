@@ -1831,6 +1831,8 @@ areaConfigurations:
     - "SK008+SK018"
     - "SK003+SK012+SK019"
     - "SK019"
+    - "SK003+SK012"
+    - "SK020"
   elections:
     european:
       dates:

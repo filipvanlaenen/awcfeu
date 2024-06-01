@@ -121,6 +121,7 @@ areaConfigurations:
     - "AT009"
     - "AT010"
     - "AT011"
+    - "AT012"
   elections:
     european:
       dates:
@@ -631,6 +632,7 @@ areaConfigurations:
     - "ES022"
     - "ES017+ES018"
     - "ES002+ES017"
+    - "ES023"
   elections:
     european:
       dates:

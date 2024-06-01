@@ -444,6 +444,7 @@ areaConfigurations:
     - "CY012"
     - "CY012+CY013"
     - "CY014"
+    - "CY015"
   elections:
     european:
       dates:

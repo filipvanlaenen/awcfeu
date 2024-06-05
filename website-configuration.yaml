@@ -1885,6 +1885,7 @@ areaConfigurations:
     - "TR011"
     - "TR012"
     - "TR013"
+    - "TR014"
   elections:
     national:
       dates:

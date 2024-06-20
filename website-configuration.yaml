@@ -762,6 +762,8 @@ areaConfigurations:
     - "FR013+FR016"
     - "FR022"
     - "FR023"
+    - "FR003+FR005+FR007+FR010"
+    - "FR024"
   elections:
     european:
       dates:

@@ -1051,6 +1051,7 @@ areaConfigurations:
     - "IE010"
     - "IE009"
     - "IE004"
+    - "IE011"
   elections:
     european:
       dates:

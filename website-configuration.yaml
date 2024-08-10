@@ -591,6 +591,7 @@ areaConfigurations:
     - "EE010"
     - "EE012"
     - "EE013"
+    - "EE014"
   elections:
     european:
       dates:

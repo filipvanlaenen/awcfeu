@@ -1172,6 +1172,14 @@ areaConfigurations:
     nl: "Kazachstan"
     no: "Kasakhstan"
 - areaCode: "li"
+  csvConfiguration:
+    electoralListIds:
+    - "LI001"
+    - "LI002"
+    - "LI003"
+    - "LI004"
+    - "LI005"
+    - "LI006"
   elections:
     national:
       dates:

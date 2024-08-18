@@ -122,6 +122,7 @@ areaConfigurations:
     - "AT010"
     - "AT011"
     - "AT012"
+    - "AT013"
   elections:
     european:
       dates:

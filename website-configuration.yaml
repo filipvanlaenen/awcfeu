@@ -856,6 +856,8 @@ areaConfigurations:
     - "GE019"
     - "GE020"
     - "GE021"
+    - "GE022"
+    - "GE023"
   elections:
     national:
       dates:

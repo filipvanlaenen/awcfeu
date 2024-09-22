@@ -245,6 +245,7 @@ areaConfigurations:
       - "BE002"
       - "BE005"
       - "BE006"
+      - "BE016"
     translations:
       de: "Brüssel"
       en: "Brussels"

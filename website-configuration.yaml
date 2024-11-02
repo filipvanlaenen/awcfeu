@@ -48,6 +48,11 @@ areaConfigurations:
     - "AL004"
     - "AL006"
     - "AL007"
+    - "AL008"
+    - "AL009"
+    - "AL010"
+    - "AL011"
+    - "AL012"
   elections:
     national:
       dates:
@@ -347,6 +352,10 @@ areaConfigurations:
     - "BG022"
     - "BG025"
     - "BG026"
+    - "BG027"
+    - "BG028"
+    - "BG029"
+    - "BG030"
   elections:
     european:
       dates:
@@ -1098,6 +1107,7 @@ areaConfigurations:
     - "IS007"
     - "IS008"
     - "IS009"
+    - "IS010"
   elections:
     national:
       dates:

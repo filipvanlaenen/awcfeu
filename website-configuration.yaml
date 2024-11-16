@@ -1691,6 +1691,9 @@ areaConfigurations:
     - "RO020"
     - "RO021"
     - "RO022"
+    - "RO023"
+    - "RO024"
+    - "RO025"
   elections:
     european:
       dates:

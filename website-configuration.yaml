@@ -1109,6 +1109,7 @@ areaConfigurations:
     - "IS008"
     - "IS009"
     - "IS010"
+    - "IS011"
   elections:
     national:
       dates:

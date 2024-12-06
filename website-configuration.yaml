@@ -1942,6 +1942,7 @@ areaConfigurations:
     - "TR012"
     - "TR013"
     - "TR014"
+    - "TR015"
   elections:
     national:
       dates:

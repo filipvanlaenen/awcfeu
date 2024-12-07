@@ -1986,6 +1986,10 @@ areaConfigurations:
     - "UA024"
     - "UA025"
     - "UA026"
+    - "UA027"
+    - "UA028"
+    - "UA029"
+    - "UA030"
   elections:
     national:
       dates:

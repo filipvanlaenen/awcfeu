@@ -953,6 +953,8 @@ areaConfigurations:
     - "GR021"
     - "GR022"
     - "GR023"
+    - "GR024"
+    - "GR025"
   elections:
     european:
       dates:

@@ -649,6 +649,7 @@ areaConfigurations:
     - "ES017+ES018"
     - "ES002+ES017"
     - "ES023"
+    - "ES024"
   elections:
     european:
       dates:

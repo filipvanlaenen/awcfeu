@@ -1365,6 +1365,9 @@ areaConfigurations:
     - "MD003+MD012"
     - "MD012"
     - "MD013"
+    - "MD014"
+    - "MD015"
+    - "MD016"
   elections:
     national:
       dates:

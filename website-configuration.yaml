@@ -820,8 +820,14 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2025-01"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/british_polls"
+        52: "2001-06-08"
+        53: "2005-05-05"
+        54: "2010-05-06"
+        55: "2015-05-07"
+        56: "2017-06-08"
+        57: "2019-12-12"
+        58: "2024-07-04"
+        59: "≤2029-08-15"
   subdivisions:
   - areaCode: "nir"
     csvConfiguration:

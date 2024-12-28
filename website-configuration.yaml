@@ -1636,7 +1636,18 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "2025-09"
+#        59: "2001-09-09/2001-09-10"
+        59: "2001-09-10"
+#        60: "2005-09-11/2005-09-12"
+        60: "2005-09-12"
+#        61: "2009-09-13/2009-09-14"
+        61: "2009-09-14"
+#        62: "2013-09-08/2009-09-09"
+        62: "2013-09-09"
+        63: "2017-09-11"
+        64: "2021-09-13"
+        65: "2025-09-08"
+      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/norwegian_polls"
   translations:
     de: "Norwegen"
     en: "Norway"

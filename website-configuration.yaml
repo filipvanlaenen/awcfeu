@@ -2146,3 +2146,7 @@ areaConfigurations:
     fr: "Kosovo"
     nl: "Kosovo"
     no: "Kosovo"
+widgetsConfiguration:
+  tableStylesheets:
+  - https://fonts.googleapis.com/css?family=Alegreya+Sans%3A400%2C700%2C400italic%2C700italic%2C600%2C600italic%7CAlegreya+Sans%3A400%2C500%2C600%2C700%2C400italic%2C700italic&ver=1
+  - https://europeelects.eu/wp-content/themes/chaplin/style.css?ver=2.6.7

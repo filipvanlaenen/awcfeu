@@ -1865,7 +1865,14 @@ areaConfigurations:
         0: "≤2026-09-20"
     presidential:
       dates:
-        0: "2024-03-17"
+        3: "2000-03-26"
+        4: "2004-03-13"
+        5: "2008-03-02"
+        6: "2012-03-04"
+        7: "2018-03-18"
+#        8: "2024-03-15/2024-03-16/2024-03-17"
+        8: "2024-03-17"
+        9: "≈2030-03"
   pollingFirmsNotIncluded:
     "ВЦИОМ": fundedByAnAuthoritarianGovernment
     "ФОМ": fundedByAnAuthoritarianGovernment

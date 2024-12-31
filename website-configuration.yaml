@@ -135,7 +135,8 @@ areaConfigurations:
         4: "2009-06-04"
         5: "2014-05-25"
         6: "2019-05-26"
-        7: "≈2024-06-09"
+        7: "2024-06-09"
+        8: "≈2029-06"
     national:
       dates:
         22: "2002-11-24"
@@ -144,7 +145,8 @@ areaConfigurations:
         25: "2013-09-29"
         26: "2017-10-15"
         27: "2019-09-29"
-        28: "≤2024-10-27"
+        28: "2024-09-29"
+        29: "≤2029-09"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/austrian_polls"
     presidential:
       dates:

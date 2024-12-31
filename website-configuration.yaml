@@ -1440,7 +1440,10 @@ areaConfigurations:
         24: "≤2025-07"
     presidential:
       dates:
-        0: "≈2024-11"
+        3: "2016-10-30+2016-11-13"
+        4: "2020-11-01+2020-11-15"
+        5: "2024-10-20+2024-11-03"
+        6: "≈2028-11"
   translations:
     de: "Moldau"
     en: "Moldova"

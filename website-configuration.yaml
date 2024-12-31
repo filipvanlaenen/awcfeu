@@ -239,10 +239,21 @@ areaConfigurations:
   elections:
     european:
       dates:
-        0: "≈2024-06-09"
+        6: "2004-06-13"
+        7: "2009-06-07"
+        8: "2014-05-25"
+        9: "2019-05-26"
+        10: "2024-06-09"
+        11: "≈2029-06"
     national:
       dates:
-        0: "⪅2024-06-09"
+        75: "2003-05-18"
+        76: "2007-06-10"
+        77: "2010-06-13"
+        78: "2014-05-25"
+        79: "2019-05-26"
+        80: "2024-06-09"
+        81: "⪅2029-06"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/belgian_polls"
   subdivisions:
   - areaCode: "bru"

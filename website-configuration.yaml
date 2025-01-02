@@ -1448,7 +1448,8 @@ areaConfigurations:
         7: "2009-06-07"
         8: "2014-05-25"
         9: "2019-05-26"
-        0: "≈2024-06-09"
+        10: "2024-06-09"
+        11: "≈2029-06"
     national:
       dates:
         29: "2004-06-13"
@@ -1456,7 +1457,7 @@ areaConfigurations:
         31: "2013-10-20"
         32: "2018-10-14"
         33: "2023-10-08"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/luxembourg_polls/"
+        34: "≤2028-10"
   translations:
     de: "Luxemburg"
     en: "Luxembourg"

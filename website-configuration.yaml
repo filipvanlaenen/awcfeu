@@ -1,4 +1,6 @@
 ---
+id: AWCFEU
+name: Europe
 areaConfigurations:
 - areaCode: "ad"
   csvConfiguration:

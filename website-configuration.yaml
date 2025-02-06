@@ -1036,7 +1036,7 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2025-04-06"
+        0: "2025-03-11"
   translations:
     de: "Grönland"
     en: "Greenland"

@@ -644,6 +644,7 @@ areaConfigurations:
     - "DK015"
     - "DK016"
     - "DK017"
+    - "DK018"
   elections:
     european:
       dates:

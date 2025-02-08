@@ -2342,10 +2342,10 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≤2025-02-07"
+        0: "≈2025"
     presidential:
       dates:
-        0: "≤2025-02-07"
+        0: "≈2025"
   translations:
     de: "Ukraine"
     en: "Ukraine"

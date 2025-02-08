@@ -1898,7 +1898,12 @@ areaConfigurations:
         28: "≤2027-11-11"
     presidential:
       dates:
-        0: "≤2025-07"
+        3: "2000-10-08"
+        4: "2005-10-09+2005-10-23"
+        5: "2010-06-20+2010-07-04"
+        6: "2015-05-10+2015-05-24"
+        7: "2020-06-28+2020-07-12"
+        8: "2025-05-18"
   pollingFirmsNotIncluded:
     "CBOS": closeTiesToAPoliticalParty
   translations:

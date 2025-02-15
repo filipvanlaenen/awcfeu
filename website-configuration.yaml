@@ -1024,27 +1024,6 @@ areaConfigurations:
     fr: "Gibraltar"
     nl: "Gibraltar"
     no: "Gibraltar"
-- areaCode: "gl"
-  csvConfiguration:
-    electoralListIds:
-    - "GL002"
-    - "GL001"
-    - "GL003"
-    - "GL004"
-    - "GL006"
-    - "GL005"
-    - "GL007"
-  elections:
-    national:
-      dates:
-        0: "2025-03-11"
-  translations:
-    de: "Grönland"
-    en: "Greenland"
-    eo: "Gronlando"
-    fr: "Groenland"
-    nl: "Groenland"
-    no: "Grønland"
 - areaCode: "gr"
   csvConfiguration:
     electoralListIds:

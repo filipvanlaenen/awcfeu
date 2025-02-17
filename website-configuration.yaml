@@ -315,6 +315,10 @@ areaConfigurations:
       - "BE005"
       - "BE006"
       - "BE007"
+      - "BE197901"
+      - "BE199201+BE199501"
+      - "BE004+BE200101"
+      - "BE006+BE200601"
     translations:
       de: "Flandern"
       en: "Flanders"

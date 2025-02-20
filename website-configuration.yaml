@@ -1117,6 +1117,7 @@ areaConfigurations:
     - "HR026"
     - "HR027"
     - "HR028"
+    - "HR029"
   elections:
     european:
       dates:

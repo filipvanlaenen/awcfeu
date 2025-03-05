@@ -1719,7 +1719,8 @@ areaConfigurations:
     - "MT003"
     - "MT005"
     - "MT006"
-    - "MT007" 
+    - "MT007"
+    - "MT202501"
   elections:
     european:
       dates:

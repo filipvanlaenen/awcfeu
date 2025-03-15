@@ -624,6 +624,7 @@ areaConfigurations:
         48: "2017-09-24"
         49: "2021-09-26"
         50: "2025-02-23"
+        51: "≤2029-03-25"
   translations:
     de: "Deutschland"
     en: "Germany"

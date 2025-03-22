@@ -1465,6 +1465,7 @@ areaConfigurations:
     - "LU010"
     - "LU012"
     - "LU013"
+    - "LU202301"
   elections:
     european:
       dates:

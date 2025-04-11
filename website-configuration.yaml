@@ -1631,7 +1631,7 @@ areaConfigurations:
     - "ME199101+ME200401"
     - "ME201203+ME200901+ME200602"
     - "ME199302+ME201001"
-    - "ME201502+ME201501"
+    - "ME201501+ME201502"
     - "ME199101+ME199301+ME201504+ME199302+ME200401"
     - "ME199802+ME201501+ME201801+ME201701+ME201203+ME200901+ME200602+ME202201"
     - "ME201502+ME202004"
@@ -1647,6 +1647,9 @@ areaConfigurations:
     - "ME201201"
     - "ME199801+ME200601"
     - "ME201601"
+    - "ME201502+ME202202"
+    - "ME202203"
+    - "ME202301"
   elections:
     national:
       dates:
@@ -2043,6 +2046,10 @@ areaConfigurations:
     - "RS025"
     - "RS026"
     - "RS027"
+    - "RS027+RS015"
+    - "RS002+RS010"
+    - "RS021+RS022+RS028"
+    - "RS009+RS013+RS020"
   elections:
     national:
       dates:

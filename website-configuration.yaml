@@ -2209,7 +2209,7 @@ areaConfigurations:
     electoralListIds:
     - "SK199901"
     - "SK200902"
-    - "SK003"
+    - "SK201101"
     - "SK199002"
     - "SK006"
     - "SK004"
@@ -2227,14 +2227,15 @@ areaConfigurations:
     - "SK017"
     - "SK018"
     - "SK008+SK018"
-    - "SK003+SK012+SK019"
+    - "SK201101+SK012+SK019"
     - "SK019"
-    - "SK003+SK012"
+    - "SK201101+SK012"
     - "SK020"
     - "SK200001"
     - "SK199101"
     - "SK199801"
     - "SK200901"
+    - "SK201102"
   elections:
     european:
       dates:

@@ -271,7 +271,7 @@ areaConfigurations:
       - "BE011"
       - "BE007"
       - "BE200102"
-      - "BE003"
+      - "BE200701"
       - "BE197801"
       - "BE012"
       - "BE200101"
@@ -310,7 +310,7 @@ areaConfigurations:
       electoralListIds:
       - "BE200102"
       - "BE200101"
-      - "BE003"
+      - "BE200701"
       - "BE197801"
       - "BE197902"
       - "BE200401"
@@ -320,6 +320,7 @@ areaConfigurations:
       - "BE197801+BE200103"
       - "BE200401+BE200601"
       - "BE200101+BE200102"
+      - "BE200702"
     translations:
       de: "Flandern"
       en: "Flanders"
@@ -2206,14 +2207,14 @@ areaConfigurations:
 - areaCode: "sk"
   csvConfiguration:
     electoralListIds:
-    - "SK001"
-    - "SK002"
+    - "SK199901"
+    - "SK200902"
     - "SK003"
-    - "SK005"
+    - "SK199002"
     - "SK006"
     - "SK004"
     - "SK008"
-    - "SK007"
+    - "SK199001"
     - "SK009"
     - "SK010"
     - "SK011"
@@ -2230,6 +2231,10 @@ areaConfigurations:
     - "SK019"
     - "SK003+SK012"
     - "SK020"
+    - "SK200001"
+    - "SK199101"
+    - "SK199801"
+    - "SK200901"
   elections:
     european:
       dates:

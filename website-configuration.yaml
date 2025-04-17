@@ -57,6 +57,7 @@ areaConfigurations:
     - "AL012"
     - "AL013"
     - "AL014"
+    - "AL015"
   elections:
     national:
       dates:

@@ -1372,12 +1372,12 @@ areaConfigurations:
 - areaCode: "li"
   csvConfiguration:
     electoralListIds:
-    - "LI001"
-    - "LI002"
-    - "LI003"
-    - "LI004"
-    - "LI005"
-    - "LI006"
+    - "LI191801"
+    - "LI193601"
+    - "LI198501"
+    - "LI201301"
+    - "LI201801"
+    - "LI202201"
   elections:
     national:
       dates:

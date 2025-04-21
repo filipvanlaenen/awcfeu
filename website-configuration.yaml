@@ -2243,6 +2243,7 @@ areaConfigurations:
     - "SK201401"
     - "SK199201"
     - "SK198901"
+    - "SK201301"
   elections:
     european:
       dates:

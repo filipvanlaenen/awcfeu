@@ -2215,7 +2215,7 @@ areaConfigurations:
     - "SK201101"
     - "SK199002"
     - "SK201001"
-    - "SK004"
+    - "SK201104"
     - "SK008"
     - "SK199001"
     - "SK009"
@@ -2247,6 +2247,7 @@ areaConfigurations:
     - "SK201103"
     - "SK201101+SK201201"
     - "SK201501"
+    - "SK201502"
   elections:
     european:
       dates:

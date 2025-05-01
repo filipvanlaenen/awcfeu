@@ -2255,6 +2255,7 @@ areaConfigurations:
     - "SK201905"
     - "SK201906"
     - "SK202102"
+    - "SK201908"
   elections:
     european:
       dates:

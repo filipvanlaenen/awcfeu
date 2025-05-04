@@ -2157,9 +2157,9 @@ areaConfigurations:
 - areaCode: "si"
   csvConfiguration:
     electoralListIds:
-    - "SI001"
+    - "SI198901"
     - "SI003"
-    - "SI004"
+    - "SI199301"
     - "SI005"
     - "SI002"
     - "SI006"
@@ -2185,6 +2185,7 @@ areaConfigurations:
     - "SI026"
     - "SI027"
     - "SI028"
+    - "SI200701"
   elections:
     european:
       dates:

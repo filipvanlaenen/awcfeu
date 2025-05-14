@@ -2192,6 +2192,9 @@ areaConfigurations:
     - "SI201103"
     - "SI200002"
     - "SI201301"
+    - "SI198902"
+    - "SI199402"
+    - "SI198801+SI198902"
   elections:
     european:
       dates:
@@ -2339,6 +2342,8 @@ areaConfigurations:
     - "TR013"
     - "TR014"
     - "TR015"
+    - "TR016"
+    - "TR017"
   elections:
     national:
       dates:

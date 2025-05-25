@@ -2167,7 +2167,7 @@ areaConfigurations:
     - "SI199102"
     - "SI199101"
     - "SI198801"
-    - "SI011"
+    - "SI201201"
     - "SI012"
     - "SI013"
     - "SI017"
@@ -2198,6 +2198,7 @@ areaConfigurations:
     - "SI200801"
     - "SI201401"
     - "SI201403"
+    - "SI199301+SI201301"
   elections:
     european:
       dates:

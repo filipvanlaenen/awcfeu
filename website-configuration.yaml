@@ -1884,6 +1884,7 @@ areaConfigurations:
     - "PL020"
     - "PL021"
     - "PL022"
+    - "PL023"
   elections:
     european:
       dates:
@@ -2161,17 +2162,17 @@ areaConfigurations:
   csvConfiguration:
     electoralListIds:
     - "SI198901"
-    - "SI003"
+    - "SI201405"
     - "SI199301"
     - "SI201402"
-    - "SI002"
+    - "SI201702"
     - "SI200001"
     - "SI201404"
     - "SI199102"
     - "SI199101"
     - "SI198801"
     - "SI201201"
-    - "SI012"
+    - "SI201703"
     - "SI198903"
     - "SI017"
     - "SI018"
@@ -2202,6 +2203,10 @@ areaConfigurations:
     - "SI201401"
     - "SI201403"
     - "SI199301+SI201301"
+    - "SI201701"
+    - "SI201601"
+    - "SI201801"
+    - "SI201406"
   elections:
     european:
       dates:

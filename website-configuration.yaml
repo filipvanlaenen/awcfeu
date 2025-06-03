@@ -2207,6 +2207,7 @@ areaConfigurations:
     - "SI201601"
     - "SI201801"
     - "SI201406"
+    - "SI198801+SI201601"
   elections:
     european:
       dates:

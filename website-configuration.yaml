@@ -1020,10 +1020,10 @@ areaConfigurations:
 - areaCode: "gi"
   csvConfiguration:
     electoralListIds:
-    - "GI001+GI002"
-    - "GI003"
-    - "GI004"
-    - "GI005"
+    - "GI200001"
+    - "GI198901"
+    - "GI200601"
+    - "GI201801"
   elections:
     national:
       dates:
@@ -2187,7 +2187,7 @@ areaConfigurations:
     - "SI202106"
     - "SI202201"
     - "SI202202"
-    - "SI022"
+    - "SI202204"
     - "SI023"
     - "SI024"
     - "SI025"
@@ -2214,6 +2214,7 @@ areaConfigurations:
     - "SI201406"
     - "SI198801+SI201601"
     - "SI202103"
+    - "SI202205"
   elections:
     european:
       dates:

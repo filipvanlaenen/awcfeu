@@ -1470,10 +1470,10 @@ areaConfigurations:
     - "LU200901"
     - "LU201301"
     - "LU192101"
-    - "LU011"
+    - "LU201901"
     - "LU201701"
-    - "LU012"
-    - "LU013"
+    - "LU201702"
+    - "LU202201"
     - "LU202301"
   elections:
     european:

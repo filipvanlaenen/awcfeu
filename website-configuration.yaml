@@ -2072,6 +2072,9 @@ areaConfigurations:
     - "RS002+RS010"
     - "RS021+RS022+RS028"
     - "RS009+RS013+RS020"
+    - "RS001+RS003+RS016"
+    - "RS028"
+    - "RS029"
   elections:
     national:
       dates:

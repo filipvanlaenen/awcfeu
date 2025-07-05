@@ -829,13 +829,13 @@ areaConfigurations:
 - areaCode: "fo"
   csvConfiguration:
     electoralListIds:
-    - "FO001"
-    - "FO002"
-    - "FO003"
-    - "FO004"
-    - "FO005"
-    - "FO006"
-    - "FO007"
+    - "FO193901"
+    - "FO192501"
+    - "FO190601"
+    - "FO194801"
+    - "FO201101"
+    - "FO199201"
+    - "FO190901"
   elections:
     national:
       dates:

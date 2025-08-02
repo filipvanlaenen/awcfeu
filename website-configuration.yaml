@@ -1593,7 +1593,7 @@ areaConfigurations:
         21: "2014-11-30"
         22: "2019-02-24"
         23: "2021-07-11"
-        24: "≤2025-07"
+        24: "2025-09-28"
     presidential:
       dates:
         3: "2016-10-30+2016-11-13"
@@ -2219,6 +2219,7 @@ areaConfigurations:
     - "SI198801+SI201601"
     - "SI202103"
     - "SI202205"
+    - "SI198801+SI202105"
   elections:
     european:
       dates:

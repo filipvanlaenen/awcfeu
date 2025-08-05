@@ -1595,6 +1595,7 @@ areaConfigurations:
     - "MD021"
     - "MD022"
     - "MD023"
+    - "MD024"
   elections:
     national:
       dates:

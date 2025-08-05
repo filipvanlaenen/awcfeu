@@ -990,9 +990,9 @@ areaConfigurations:
     - "GE201201"
     - "GE200101"
     - "GE006"
-    - "GE004"
-    - "GE003"
-    - "GE011"
+    - "GE199501"
+    - "GE201202"
+    - "GE200802"
     - "GE009"
     - "GE008"
     - "GE005"
@@ -1009,9 +1009,10 @@ areaConfigurations:
     - "GE019"
     - "GE020"
     - "GE021"
-    - "GE022"
+    - "GE200901"
     - "GE200801"
     - "GE024"
+    - "GE197801"
   elections:
     national:
       dates:

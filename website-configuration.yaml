@@ -987,8 +987,8 @@ areaConfigurations:
   # Should be synchronized between Asia and Europe
   csvConfiguration:
     electoralListIds:
-    - "GE001"
-    - "GE002"
+    - "GE201201"
+    - "GE200101"
     - "GE006"
     - "GE004"
     - "GE003"
@@ -1010,7 +1010,7 @@ areaConfigurations:
     - "GE020"
     - "GE021"
     - "GE022"
-    - "GE023"
+    - "GE200801"
     - "GE024"
   elections:
     national:

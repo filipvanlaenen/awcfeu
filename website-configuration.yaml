@@ -989,14 +989,14 @@ areaConfigurations:
     electoralListIds:
     - "GE201201"
     - "GE200101"
-    - "GE006"
+    - "GE201701"
     - "GE199501"
     - "GE201202"
     - "GE200802"
-    - "GE009"
-    - "GE008"
-    - "GE005"
-    - "GE007"
+    - "GE202001"
+    - "GE201601"
+    - "GE201901"
+    - "GE201702"
     - "GE010"
     - "GE012"
     - "GE013"
@@ -1013,6 +1013,7 @@ areaConfigurations:
     - "GE200801"
     - "GE024"
     - "GE197801"
+    - "GE201902"
   elections:
     national:
       dates:

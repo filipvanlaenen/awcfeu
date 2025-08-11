@@ -997,7 +997,7 @@ areaConfigurations:
     - "GE201601"
     - "GE201901"
     - "GE201702"
-    - "GE010"
+    - "GE201602"
     - "GE012"
     - "GE013"
     - "GE014"
@@ -1013,7 +1013,6 @@ areaConfigurations:
     - "GE200801"
     - "GE024"
     - "GE197801"
-    - "GE201902"
   elections:
     national:
       dates:

@@ -1256,7 +1256,10 @@ areaConfigurations:
         35: "≤2029-11"
     presidential:
       dates:
-        0: "≈2025-10"
+        12: "2004-10-22"
+        13: "2011-10-27"
+        14: "2018-10-26"
+        15: "2025-10-24"
   translations:
     de: "Irland"
     en: "Ireland"

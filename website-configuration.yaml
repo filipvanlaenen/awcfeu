@@ -896,6 +896,9 @@ areaConfigurations:
     - "FR003+FR005+FR007+FR010"
     - "FR024"
     - "FR005+FR007+FR010"
+    - "FR003+FR007"
+    - "FR005+FR010"
+    - "FR003+FR007+FR010"
   elections:
     european:
       dates:

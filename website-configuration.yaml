@@ -2478,6 +2478,7 @@ areaConfigurations:
     - "XK004+XK005"
     - "XK006+XK007+XK008"
     - "XK004+XK006"
+    - "XK007+XK008"
     includeAreaAsNational: SQ
   elections:
     national:

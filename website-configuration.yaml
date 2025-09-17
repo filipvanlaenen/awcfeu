@@ -1875,6 +1875,7 @@ areaConfigurations:
         63: "2017-09-11"
         64: "2021-09-13"
         65: "2025-09-08"
+        66: "2029-09"
       gitHubWebsiteUrl: "https://filipvanlaenen.github.io/norwegian_polls"
   translations:
     de: "Norwegen"

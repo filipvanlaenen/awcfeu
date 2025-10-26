@@ -1913,6 +1913,7 @@ areaConfigurations:
     - "PL021"
     - "PL022"
     - "PL023"
+    - "PL004+PL012+PL013+PL017"
   elections:
     european:
       dates:

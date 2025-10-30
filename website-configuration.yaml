@@ -1990,7 +1990,12 @@ areaConfigurations:
         83: "≤2029-05"
     presidential:
       dates:
-        0: "≈2026-01"
+        13: "2001-01-14"
+        14: "2006-01-22"
+        15: "2011-01-23"
+        16: "2016-01-24"
+        17: "2021-01-24"
+        18: "2026-01-18"
   translations:
     de: "Portugal"
     en: "Portugal"

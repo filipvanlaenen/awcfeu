@@ -1837,6 +1837,7 @@ areaConfigurations:
         62: "2021-03-17"
         63: "2023-11-22"
         64: "2025-10-29"
+        65: "≤2029-10"
   translations:
     de: "Niederlande"
     en: "Netherlands"

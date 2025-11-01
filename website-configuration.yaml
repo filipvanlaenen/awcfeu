@@ -1280,7 +1280,7 @@ areaConfigurations:
     - "IS200001"
     - "IS004"
     - "IS191601"
-    - "IS005"
+    - "IS201204"
     - "IS007"
     - "IS008"
     - "IS009"
@@ -1288,6 +1288,11 @@ areaConfigurations:
     - "IS011"
     - "IS199801"
     - "IS200901"
+    - "IS201201"
+    - "IS201202"
+    - "IS201203"
+    - "IS201001"
+    - "IS201301"
   elections:
     national:
       dates:

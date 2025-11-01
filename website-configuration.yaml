@@ -1275,17 +1275,19 @@ areaConfigurations:
 - areaCode: "is"
   csvConfiguration:
     electoralListIds:
-    - "IS001"
-    - "IS003"
-    - "IS002"
+    - "IS192901"
+    - "IS199901"
+    - "IS200001"
     - "IS004"
-    - "IS006"
+    - "IS191601"
     - "IS005"
     - "IS007"
     - "IS008"
     - "IS009"
     - "IS010"
     - "IS011"
+    - "IS199801"
+    - "IS200901"
   elections:
     national:
       dates:

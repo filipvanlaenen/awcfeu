@@ -1355,6 +1355,7 @@ areaConfigurations:
     - "IT026"
     - "IT027"
     - "IT028"
+    - "IT029"
   elections:
     european:
       dates:

@@ -2412,6 +2412,7 @@ areaConfigurations:
     - "TR015"
     - "TR016"
     - "TR017"
+    - "TR018"
   elections:
     national:
       dates:

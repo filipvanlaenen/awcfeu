@@ -2488,7 +2488,7 @@ areaConfigurations:
 - areaCode: "xk"
   csvConfiguration:
     electoralListIds:
-    - "XK002"
+    - "XK200501"
     - "XK001"
     - "XK003"
     - "XK004"
@@ -2502,6 +2502,8 @@ areaConfigurations:
     - "XK006+XK007+XK008"
     - "XK004+XK006"
     - "XK007+XK008"
+    - "XK201701"
+    - "XK201702"
     includeAreaAsNational: SQ
   elections:
     national:

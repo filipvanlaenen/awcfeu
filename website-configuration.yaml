@@ -2499,9 +2499,9 @@ areaConfigurations:
     - "XK200601"
     - "XK199001"
     - "XK199001+XK200101"
-    - "XK200601+XK201401+XK008"
+    - "XK200401+XK200601+XK201401"
     - "XK200101+XK201401"
-    - "XK200601+XK008"
+    - "XK200401+XK200601"
     - "XK201701"
     - "XK201702"
     includeAreaAsNational: SQ

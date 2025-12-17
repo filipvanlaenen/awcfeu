@@ -99,6 +99,8 @@ areaConfigurations:
     - "AM018"
     - "AM019"
     - "AM020"
+    - "AM021"
+    - "AM022"
   elections:
     national:
       dates:
@@ -2337,6 +2339,7 @@ areaConfigurations:
     - "SK202102"
     - "SK201908"
     - "SK201902+SK202001"
+    - "SK202501"
   elections:
     european:
       dates:

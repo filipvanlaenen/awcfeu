@@ -2509,6 +2509,7 @@ areaConfigurations:
     - "XK200401+XK200601"
     - "XK201701"
     - "XK201702"
+    - "XK202401"
     includeAreaAsNational: SQ
   elections:
     national:

@@ -2157,6 +2157,7 @@ areaConfigurations:
     - "RU006"
     - "RU008"
     - "RU009"
+    - "RU010"
   elections:
     national:
       dates:

@@ -1769,10 +1769,10 @@ areaConfigurations:
 - areaCode: "mt"
   csvConfiguration:
     electoralListIds:
-    - "MT001"
-    - "MT002"
+    - "MT192101"
+    - "MT192601"
     - "MT004"
-    - "MT003"
+    - "MT198901"
     - "MT005"
     - "MT006"
     - "MT007"

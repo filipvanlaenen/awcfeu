@@ -1724,22 +1724,23 @@ areaConfigurations:
 - areaCode: "mk"
   csvConfiguration:
     electoralListIds:
-    - "MK002"
-    - "MK001"
-    - "MK003"
+    - "MK199101"
+    - "MK199001"
+    - "MK200201"
     - "MK004"
     - "MK005"
-    - "MK008"
+    - "MK199701"
     - "MK006"
     - "MK007"
     - "MK007+MK004"
-    - "MK009+MK010"
-    - "MK002+MK003"
+    - "MK200601+MK010"
+    - "MK199101+MK200201"
     - "MK011"
     - "MK012"
     - "MK006+MK007+MK012"
-    - "MK003+MK008"
-    - "MK002+MK009+MK010"
+    - "MK199701+MK200201"
+    - "MK199101+MK200601+MK010"
+    - "MK200601"
   elections:
     national:
       dates:

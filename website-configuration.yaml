@@ -1746,6 +1746,7 @@ areaConfigurations:
     - "MK201101"
     - "MK200401"
     - "MK199702"
+    - "MK199101+MK201401"
   elections:
     national:
       dates:

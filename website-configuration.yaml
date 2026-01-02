@@ -1738,8 +1738,8 @@ areaConfigurations:
     - "MK202301"
     - "MK202302"
     - "MK201401+MK201901+MK202302"
-    - "MK199701+MK200201"
-    - "MK199101+MK199702+MK200601"
+    - "MK202402"
+    - "MK202403"
     - "MK200601"
     - "MK200801"
     - "MK200901"
@@ -1748,6 +1748,8 @@ areaConfigurations:
     - "MK199702"
     - "MK199101+MK201401"
     - "MK201902"
+    - "MK202401"
+    - "MK202404"
   elections:
     national:
       dates:

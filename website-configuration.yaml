@@ -1618,6 +1618,8 @@ areaConfigurations:
     - "MD022"
     - "MD023"
     - "MD024"
+    - "MD025"
+    - "MD026"
   elections:
     national:
       dates:

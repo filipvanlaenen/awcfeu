@@ -1558,6 +1558,7 @@ areaConfigurations:
     - "LV020"
     - "LV021"
     - "LV022"
+    - "LV023"
   elections:
     european:
       dates:

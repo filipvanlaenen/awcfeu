@@ -2508,10 +2508,10 @@ areaConfigurations:
   elections:
     national:
       dates:
-        0: "≈2025"
+        0: "≈2026"
     presidential:
       dates:
-        0: "≈2025"
+        0: "≈2026"
   translations:
     de: "Ukraine"
     en: "Ukraine"

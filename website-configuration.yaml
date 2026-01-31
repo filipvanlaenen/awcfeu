@@ -2022,7 +2022,7 @@ areaConfigurations:
         15: "2011-01-23"
         16: "2016-01-24"
         17: "2021-01-24"
-        18: "2026-01-18"
+        18: "2026-01-18+2026-02-08"
   translations:
     de: "Portugal"
     en: "Portugal"
@@ -2285,6 +2285,7 @@ areaConfigurations:
     - "SI201703+SI202204"
     - "SI201702+SI202201"
     - "SI029"
+    - "SI198801+SI200001+SI027"
   elections:
     european:
       dates:

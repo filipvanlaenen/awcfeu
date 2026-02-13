@@ -1360,6 +1360,7 @@ areaConfigurations:
     - "IT027"
     - "IT028"
     - "IT029"
+    - "IT030"
   elections:
     european:
       dates:

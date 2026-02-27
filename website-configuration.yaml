@@ -175,18 +175,18 @@ areaConfigurations:
 - areaCode: "ax"
   csvConfiguration:
     electoralListIds:
-    - "AX001"
-    - "AX002"
-    - "AX003"
-    - "AX004"
-    - "AX005"
-    - "AX006"
-    - "AX007"
-    - "AX008"
-    - "AX009"
-    - "AX010"
-    - "AX011"
-    - "AX012"
+    - "AX197601"
+    - "AX197801"
+    - "AX201501"
+    - "AX201401"
+    - "AX200101"
+    - "AX198701"
+    - "AX197101"
+    - "AX201502"
+    - "AX202201"
+    - "AX199901"
+    - "AX196701"
+    - "AX200701"
   elections:
     national:
       dates:

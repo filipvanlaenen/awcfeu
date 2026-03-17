@@ -965,6 +965,7 @@ areaConfigurations:
     - "GB009"
     - "GB010"
     - "GB017"
+    - "GB018"
     includeAreaAsNational: GBN
   elections:
     national:

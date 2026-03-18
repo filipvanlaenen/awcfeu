@@ -403,6 +403,7 @@ areaConfigurations:
     - "BG029"
     - "BG030"
     - "BG031"
+    - "BG032"
   elections:
     european:
       dates:

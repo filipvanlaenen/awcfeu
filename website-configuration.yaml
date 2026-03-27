@@ -110,7 +110,7 @@ areaConfigurations:
         6: "2017-04-02"
         7: "2018-12-09"
         8: "2021-06-20"
-        9: "≤2026-06"
+        9: "2026-06-07"
   pollingFirmsNotIncluded:
     "ВЦИОМ": fundedByAnAuthoritarianGovernment
   translations:

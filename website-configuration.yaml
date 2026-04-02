@@ -96,11 +96,14 @@ areaConfigurations:
     - "AM200101"
     - "AM202001"
     - "AM202101"
-    - "AM018"
-    - "AM019"
-    - "AM020"
-    - "AM021"
-    - "AM022"
+    - "AM202102"
+    - "AM202201"
+    - "AM201803"
+    - "AM201301"
+    - "AM202301"
+    - "AM202501"
+    - "AM202601"
+    - "AM202502"
   elections:
     national:
       dates:

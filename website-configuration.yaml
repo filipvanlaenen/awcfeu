@@ -2537,6 +2537,7 @@ areaConfigurations:
     - "UA029"
     - "UA030"
     - "UA031"
+    - "UA032"
   elections:
     national:
       dates:

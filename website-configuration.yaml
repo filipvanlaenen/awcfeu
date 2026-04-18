@@ -70,17 +70,6 @@ areaConfigurations:
       fr: "Conseil général"
       nl: "Algemene Raad"
       no: "Hovedråd"
-  elections:
-    national:
-      dates:
-        3: "2001-03-04"
-        4: "2005-04-24"
-        5: "2009-04-26"
-        6: "2011-04-03"
-        7: "2015-03-01"
-        8: "2019-04-07"
-        9: "2023-04-02"
-        10: "≤2027-04"
   translations:
     de: "Andorra"
     en: "Andorra"

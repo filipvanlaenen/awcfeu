@@ -445,6 +445,23 @@ areaConfigurations:
     - "BG031"
     - "BG032"
   electedBodies:
+  - id: "ep"
+    electionDates:
+    - "2007-05-20"
+    - "2009-06-07"
+    - "2014-05-25"
+    - "2019-05-26"
+    - "2024-06-09"
+    - "≈2029-06"
+    properNames:
+      bg: "Европейски парламент"
+    translatedNames:
+      de: "Europäisches Parlament"
+      en: "European Parliament"
+      eo: "Eŭropa Parlamento"
+      fr: "Parlement européen"
+      nl: "Europees Parlement"
+      no: "Europaparlamentet"
   - id: "na"
     electionDates:
     - "1879-01"
@@ -513,37 +530,26 @@ areaConfigurations:
       fr: "Assemblée nationale"
       nl: "Nationale Vergadering"
       no: "Nasjonalforsamling"
-  elections:
-    european:
-      dates:
-        1: "2007-05-20"
-        2: "2009-06-07"
-        3: "2014-05-25"
-        4: "2019-05-26"
-        5: "2024-06-09"
-        6: "≈2029-06"
-    national:
-      dates:
-        39: "2001-06-17"
-        40: "2005-06-25"
-        41: "2009-07-05"
-        42: "2013-05-12"
-        43: "2014-10-05"
-        44: "2017-03-26"
-        45: "2021-04-04"
-        46: "2021-07-11"
-        47: "2021-11-14"
-        48: "2022-10-02"
-        49: "2023-04-02"
-        50: "2026-04-19"
-    presidential:
-      dates:
-        3: "2001-11-11+2001-11-18"
-        4: "2006-10-22+2006-10-29"
-        5: "2011-10-23+2011-10-30"
-        6: "2016-11-06+2016-11-13"
-        7: "2021-11-14+2021-11-21"
-        8: "≈2026-11"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1992"
+    - "1996"
+    - "2001-11-11+2001-11-18"
+    - "2006-10-22+2006-10-29"
+    - "2011-10-23+2011-10-30"
+    - "2016-11-06+2016-11-13"
+    - "2021-11-14+2021-11-21"
+    - "≈2026-11"
+    properNames:
+      bg: "Президент"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
   translations:
     de: "Bulgarien"
     en: "Bulgaria"

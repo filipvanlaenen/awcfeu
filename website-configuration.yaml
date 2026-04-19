@@ -195,7 +195,6 @@ areaConfigurations:
         27: "2019-09-29"
         28: "2024-09-29"
         29: "≤2029-09"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/austrian_polls"
     presidential:
       dates:
         11: "2004-04-25"
@@ -305,7 +304,6 @@ areaConfigurations:
         79: "2019-05-26"
         80: "2024-06-09"
         81: "⪅2029-06"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/belgian_polls"
   subdivisions:
   - areaCode: "bru"
     csvConfiguration:
@@ -642,26 +640,78 @@ areaConfigurations:
     - "CY014"
     - "CY015"
     - "CY016"
-  elections:
-    european:
-      dates:
-        1: "2004-06-13"
-        2: "2009-06-06"
-        3: "2014-05-25"
-        4: "2019-05-26"
-        5: "2024-06-09"
-        6: "≈2029-06"
-    national:
-      dates:
-        20: "2001-05-27"
-        21: "2006-05-21"
-        22: "2011-05-22"
-        23: "2016-05-22"
-        24: "2021-05-30"
-        25: "2026-05-24"
-    presidential:
-      dates:
-        0: "≈2028-02"
+  electedBodies:
+  - id: "ep"
+    electionDates:
+    - "2004-06-13"
+    - "2009-06-06"
+    - "2014-05-25"
+    - "2019-05-26"
+    - "2024-06-09"
+    - "≈2029-06"
+    properNames:
+      el: "Ευρωπαϊκό Κοινοβούλιο"
+      tr: "Avrupa Parlamentosu"
+    translatedNames:
+      de: "Europäisches Parlament"
+      en: "European Parliament"
+      eo: "Eŭropa Parlamento"
+      fr: "Parlement européen"
+      nl: "Europees Parlement"
+      no: "Europaparlamentet"
+  - id: "hr"
+    electionDates:
+    - "1960"
+    - "1970"
+    - "1976"
+    - "1981"
+    - "1985"
+    - "1991"
+    - "1996"
+    - "2001-05-27"
+    - "2006-05-21"
+    - "2011-05-22"
+    - "2016-05-22"
+    - "2021-05-30"
+    - "2026-05-24"
+    properNames:
+      el: "Βουλή των Αντιπροσώπων"
+      tr: "Temsilciler Meclisi"
+    translatedNames:
+      de: "Repräsentantenhaus"
+      en: "House of Representatives"
+      eo: "Ĉambro de Reprezentantoj"
+      fr: "Chambre des représentants"
+      nl: "Huis van Afgevaardigden"
+      no: "Representantenes hus"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1959"
+    - "1968"
+    - "1973"
+    - "1977"
+    - "1978"
+    - "1983"
+    - "1988"
+    - "1993"
+    - "1998"
+    - "2003-02-16"
+    - "2008-02-17+2008-02-24"
+    - "2013-02-17+2013-02-24"
+    - "2018-01-28+2018-02-04"
+    - "2023-02-05+2023-02-12"
+    - "≈2028-02"
+    properNames:
+      el: "Πρόεδρος"
+      tr: "Başkan"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
   translations:
     de: "Zypern"
     en: "Cyprus"
@@ -859,7 +909,6 @@ areaConfigurations:
     national:
       dates:
         0: "≤2027-03-07"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/estonian_polls"
   translations:
     de: "Estland"
     en: "Estonia"
@@ -2081,7 +2130,6 @@ areaConfigurations:
         64: "2021-09-13"
         65: "2025-09-08"
         66: "2029-09"
-      gitHubWebsiteUrl: "https://filipvanlaenen.github.io/norwegian_polls"
   translations:
     de: "Norwegen"
     en: "Norway"

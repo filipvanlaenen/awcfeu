@@ -1274,6 +1274,7 @@ areaConfigurations:
     - "GR023"
     - "GR024"
     - "GR025"
+    - "GR026"
   elections:
     european:
       dates:

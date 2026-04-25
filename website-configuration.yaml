@@ -141,16 +141,27 @@ areaConfigurations:
     - "AM202501"
     - "AM202601"
     - "AM202502"
-  elections:
-    national:
-      dates:
-        3: "2003-05-25"
-        4: "2007-05-12"
-        5: "2012-05-06"
-        6: "2017-04-02"
-        7: "2018-12-09"
-        8: "2021-06-20"
-        9: "2026-06-07"
+  electedBodies:
+  - id: "na"
+    electionDates:
+    - "1995"
+    - "1999"
+    - "2003-05-25"
+    - "2007-05-12"
+    - "2012-05-06"
+    - "2017-04-02"
+    - "2018-12-09"
+    - "2021-06-20"
+    - "2026-06-07"
+    properNames:
+      hy: "Ազգային ժողով"
+    translatedNames:
+      de: "Nationalversammlung"
+      en: "National Assembly"
+      eo: "Nacia Asembleo"
+      fr: "Assemblée nationale"
+      nl: "Nationale Vergadering"
+      no: "Nasjonalforsamling"
   pollingFirmsNotIncluded:
     "ВЦИОМ": fundedByAnAuthoritarianGovernment
   translations:

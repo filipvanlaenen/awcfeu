@@ -1679,7 +1679,7 @@ areaConfigurations:
       en: "States Assembly"
       fr: "Assemblée des États"
       "nrf-je": "Êtats d’Jèrri"
-    transl-atedNames:
+    translatedNames:
       de: "Staatenversammlung"
       eo: "Asembleo de Ŝtatoj"
       nl: "Vergadering van de Staten"

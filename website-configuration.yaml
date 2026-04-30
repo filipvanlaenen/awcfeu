@@ -99,6 +99,8 @@ areaConfigurations:
     - "AL201202"
     - "AL201301"
     - "AL201302"
+    - "AL201601"
+    - "AL201602"
   elections:
     national:
       dates:

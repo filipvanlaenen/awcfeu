@@ -97,6 +97,8 @@ areaConfigurations:
     - "AL015"
     - "AL201201"
     - "AL201202"
+    - "AL201301"
+    - "AL201302"
   elections:
     national:
       dates:

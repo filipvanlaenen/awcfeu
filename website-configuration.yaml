@@ -80,21 +80,23 @@ areaConfigurations:
 - areaCode: "al"
   csvConfiguration:
     electoralListIds:
-    - "AL001"
-    - "AL002"
+    - "AL199101"
+    - "AL199001"
     - "AL005"
-    - "AL003"
+    - "AL200401"
     - "AL004"
     - "AL006"
     - "AL007"
     - "AL008"
     - "AL009"
     - "AL010"
-    - "AL011"
+    - "AL201101"
     - "AL012"
     - "AL013"
     - "AL014"
     - "AL015"
+    - "AL201201"
+    - "AL201202"
   elections:
     national:
       dates:

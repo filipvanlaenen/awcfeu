@@ -2325,6 +2325,7 @@ areaConfigurations:
     - "PL022"
     - "PL023"
     - "PL004+PL012+PL013+PL017"
+    - "PL024"
   elections:
     european:
       dates:

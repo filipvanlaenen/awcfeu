@@ -2225,6 +2225,7 @@ areaConfigurations:
     - "NL022"
     - "NL005+NL007"
     - "NL023"
+    - "NL024"
   elections:
     european:
       dates:
@@ -2927,6 +2928,7 @@ areaConfigurations:
     - "XK201702"
     - "XK202401"
     includeAreaAsNational: SQ
+  electedBodies:
   - id: "par"
     electionDates:
     - "1992-05-24"

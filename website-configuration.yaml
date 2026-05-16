@@ -1324,6 +1324,7 @@ areaConfigurations:
     - "GR024"
     - "GR025"
     - "GR026"
+    - "GR027"
   elections:
     european:
       dates:
@@ -2048,6 +2049,7 @@ areaConfigurations:
     - "ME201502+ME202202"
     - "ME202203"
     - "ME202301"
+    - "ME202501"
   elections:
     national:
       dates:

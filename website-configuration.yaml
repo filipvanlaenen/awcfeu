@@ -689,6 +689,7 @@ areaConfigurations:
     - "CY014"
     - "CY015"
     - "CY016"
+    - "CY017"
   electedBodies:
   - id: "ep"
     electionDates:

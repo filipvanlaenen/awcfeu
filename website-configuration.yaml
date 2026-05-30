@@ -724,6 +724,7 @@ areaConfigurations:
     - "2016-05-22"
     - "2021-05-30"
     - "2026-05-24"
+    - "≤2031-05"
     properNames:
       el: "Βουλή των Αντιπροσώπων"
       tr: "Temsilciler Meclisi"

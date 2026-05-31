@@ -2186,6 +2186,7 @@ areaConfigurations:
     - "2017-06-23"
     - "2022-03-26"
     - "2026-05-30"
+    - "≤2031-05"
     properNames:
       en: "House of Representatives"
       mt: "Kamra tad-Deputati"

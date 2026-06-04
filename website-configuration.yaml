@@ -178,6 +178,8 @@ areaConfigurations:
     - "AM202501"
     - "AM202601"
     - "AM202502"
+    - "AM202602"
+    - "AM202603"
   electedBodies:
   - id: "na"
     electionDates:

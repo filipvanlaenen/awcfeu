@@ -180,6 +180,7 @@ areaConfigurations:
     - "AM202502"
     - "AM202602"
     - "AM202603"
+    - "AM202401"
   electedBodies:
   - id: "na"
     electionDates:
@@ -1637,6 +1638,7 @@ areaConfigurations:
     - "IT028"
     - "IT029"
     - "IT030"
+    - "IT031"
   elections:
     european:
       dates:
@@ -1717,6 +1719,7 @@ areaConfigurations:
     - "2018-05-16"
     - "2022-06-22"
     - "2026-06-07"
+    - "≤2030-06"
     properNames:
       en: "States Assembly"
       fr: "Assemblée des États"

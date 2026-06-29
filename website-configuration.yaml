@@ -2604,18 +2604,54 @@ areaConfigurations:
     - "SE006"
     - "SE007"
     - "SE008"
-  elections:
-    european:
-      dates:
-        3: "2004-06-13"
-        4: "2009-06-07"
-        5: "2014-05-25"
-        6: "2019-05-26"
-        7: "2024-06-09"
-        8: "≈2029-06"
-    national:
-      dates:
-        0: "2026-09-13"
+  electedBodies:
+  - id: "ep"
+    electionDates:
+    - "1995"
+    - "1999"
+    - "2004-06-13"
+    - "2009-06-07"
+    - "2014-05-25"
+    - "2019-05-26"
+    - "2024-06-09"
+    - "≈2029-06"
+    properNames:
+      sv: "Europaparlamentet"
+    translatedNames:
+      de: "Europäisches Parlament"
+      en: "European Parliament"
+      eo: "Eŭropa Parlamento"
+      fr: "Parlement européen"
+      nl: "Europees Parlement"
+      no: "Europaparlamentet"
+  - id: "rd"
+    electionDates:
+    - "1970"
+    - "1973"
+    - "1976"
+    - "1979"
+    - "1982"
+    - "1985"
+    - "1988"
+    - "1991"
+    - "1994"
+    - "1998"
+    - "2002-09-15"
+    - "2006-09-17"
+    - "2010-09-19"
+    - "2014-09-14"
+    - "2018-09-09"
+    - "2022-09-11"
+    - "2026-09-13"
+    properNames:
+      sv: "Riksdag"
+    translatedNames:
+      de: "Reichstag"
+      en: "Imperial Diet"
+      eo: "Imperia Dieto"
+      fr: "Diète d’Empire"
+      nl: "Rijksdag"
+      no: "Riksdag"
   pollingFirmsNotIncluded:
     "Sentio": doesNotFollowStandardMethodologicalRules
   translations:

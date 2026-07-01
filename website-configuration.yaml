@@ -2569,20 +2569,47 @@ areaConfigurations:
     - "RU008"
     - "RU009"
     - "RU010"
-  elections:
-    national:
-      dates:
-        0: "≤2026-09-20"
-    presidential:
-      dates:
-        3: "2000-03-26"
-        4: "2004-03-13"
-        5: "2008-03-02"
-        6: "2012-03-04"
-        7: "2018-03-18"
-#        8: "2024-03-15/2024-03-16/2024-03-17"
-        8: "2024-03-17"
-        9: "≈2030-03"
+  electedBodies:
+  - id: "sd"
+    electionDates:
+    - "1993"
+    - "1995"
+    - "1999"
+    - "2003-12-07"
+    - "2007-12-02"
+    - "2011-12-04"
+    - "2016-09-18"
+    - "2021-09-17&2021-09-18&2021-09-19"
+    - "2026-09-18&2026-09-19&2026-09-20"
+    properNames:
+      ru: "Государственная дума"
+    translatedNames:
+      de: "Staatsduma"
+      en: "State Duma"
+      eo: "Ŝtata Dumao"
+      fr: "Douma d’État"
+      nl: "Staatsdoema"
+      no: "Statsdumaen"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1996"
+    - "2000-03-26"
+    - "2004-03-13"
+    - "2008-03-02"
+    - "2012-03-04"
+    - "2018-03-18"
+    - "2024-03-15&2024-03-16&2024-03-17"
+    - "≈2030-03"
+    properNames:
+      ru: "Президент"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
   pollingFirmsNotIncluded:
     "ВЦИОМ": fundedByAnAuthoritarianGovernment
     "ФОМ": fundedByAnAuthoritarianGovernment

@@ -2959,6 +2959,7 @@ areaConfigurations:
     - "TR016"
     - "TR017"
     - "TR018"
+    - "TR019"
   elections:
     national:
       dates:

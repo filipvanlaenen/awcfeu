@@ -1789,24 +1789,62 @@ areaConfigurations:
     no: "Jersey"
 - areaCode: "kz"
   # Should be synchronized between Asia and Europe
-  elections:
-    national:
-      dates:
-        4: "2004-09-19+2004-10-03"
-        5: "2007-08-18"
-        6: "2012-01-15"
-        7: "2016-03-20"
-        8: "2021-01-10"
-        9: "2023-03-19"
-        10: "≤2028-03"
-    presidential:
-      dates:
-        3: "2005-12-04"
-        4: "2011-04-03"
-        5: "2015-04-26"
-        6: "2019-06-09"
-        7: "2022-11-20"
-        8: "≈2029-11"
+  electedBodies:
+  - id: "maj"
+    defunct: true
+    electionDates:
+    - "1995"
+    - "1999"
+    - "2004-09-19+2004-10-03"
+    - "2007-08-18"
+    - "2012-01-15"
+    - "2016-03-20"
+    - "2021-01-10"
+    - "2023-03-19"
+    properNames:
+      kk: "Мәжіліс"
+      ru: "Мажилис"
+    translatedNames:
+      de: "Mäschilis"
+      en: "Mäjilis"
+      eo: "Maĵilis" # Unverified name
+      fr: "Mäjilis"
+      nl: "Majilis"
+      no: "Mazhilis"
+  - id: "kur"
+    electionDates:
+    - "2026-08-23"
+    properNames:
+      kk: "Құрылтай"
+      ru: "Курултай"
+    translatedNames:
+      de: "Kurultai"
+      en: "Kurultai"
+      eo: "Kurultaj" # Unverified name
+      fr: "Kurultaï"
+      nl: "Kurultai"
+      no: "Kurultai"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1991"
+    - "1999"
+    - "2005-12-04"
+    - "2011-04-03"
+    - "2015-04-26"
+    - "2019-06-09"
+    - "2022-11-20"
+    - "≈2029-11"
+    properNames:
+      kk: "Президент"
+      ru: "Президент"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
   translations:
     de: "Kasachstan"
     en: "Kazakhstan"

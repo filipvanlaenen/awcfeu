@@ -2003,6 +2003,7 @@ areaConfigurations:
     - "LV021"
     - "LV022"
     - "LV023"
+    - "LV024"
   elections:
     european:
       dates:
@@ -2619,6 +2620,9 @@ areaConfigurations:
     - "RS029"
     - "RS001+RS016"
     - "RS002+RS009+RS010+RS011+RS013+RS020+RS021+RS022"
+    - "RS001+RS003"
+    - "RS030"
+    - "RS022+RS028"
   elections:
     national:
       dates:

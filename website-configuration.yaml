@@ -1000,6 +1000,7 @@ areaConfigurations:
     - "ES002+ES017"
     - "ES023"
     - "ES024"
+    - "ES025"
   elections:
     european:
       dates:

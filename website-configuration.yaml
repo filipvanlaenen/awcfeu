@@ -1691,6 +1691,7 @@ areaConfigurations:
     - "IT029"
     - "IT030"
     - "IT031"
+    - "IT032"
   elections:
     european:
       dates:
@@ -2839,6 +2840,9 @@ areaConfigurations:
     - "SI029"
     - "SI198801+SI200001+SI027"
     - "SI198903+SI029"
+    - "SI202302"
+    - "SI199102+SI201703"
+    - "SI202402"
   elections:
     european:
       dates:

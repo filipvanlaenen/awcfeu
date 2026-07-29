@@ -1791,6 +1791,16 @@ areaConfigurations:
     no: "Jersey"
 - areaCode: "kz"
   # Should be synchronized between Asia and Europe
+  csvConfiguration:
+    electoralListIds:
+    - "KZ199901"
+    - "KZ201501"
+    - "KZ200201"
+    - "KZ200401"
+    - "KZ202201"
+    - "KZ200601"
+    - "KZ202202"
+    - "KZ202601"
   electedBodies:
   - id: "maj"
     defunct: true

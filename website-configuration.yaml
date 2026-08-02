@@ -2016,18 +2016,46 @@ areaConfigurations:
     - "LV022"
     - "LV023"
     - "LV024"
-  elections:
-    european:
-      dates:
-        1: "2004-06-12"
-        2: "2009-06-06"
-        3: "2014-05-24"
-        4: "2019-05-25"
-        5: "2024-06-08"
-        6: "≈2029-06"
-    national:
-      dates:
-        0: "≤2026-10"
+  electedBodies:
+  - id: "ep"
+    electionDates:
+    - "2004-06-12"
+    - "2009-06-06"
+    - "2014-05-24"
+    - "2019-05-25"
+    - "2024-06-08"
+    - "≈2029-06"
+    properNames:
+      lv: "Eiropas Parlaments"
+    translatedNames:
+      de: "Europäisches Parlament"
+      en: "European Parliament"
+      eo: "Eŭropa Parlamento"
+      fr: "Parlement européen"
+      nl: "Europees Parlement"
+      no: "Europaparlamentet"
+  - id: "sa"
+    electionDates:
+    - "1993"
+    - "1995"
+    - "1998"
+    - "2002-10-05"
+    - "2006-10-07"
+    - "2010-10-02"
+    - "2011-09-17"
+    - "2014-10-04"
+    - "2018-10-06"
+    - "2022-10-01"
+    - "2026-10-03"
+    properNames:
+      lv: "Saeima"
+    translatedNames:
+      de: "Saeima"
+      en: "Saeima"
+      eo: "Saeima"
+      fr: "Saeima"
+      nl: "Saeima"
+      no: "Saeima"
   translations:
     de: "Lettland"
     en: "Latvia"

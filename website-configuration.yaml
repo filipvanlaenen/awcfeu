@@ -2016,6 +2016,7 @@ areaConfigurations:
     - "LV022"
     - "LV023"
     - "LV024"
+    - "LV017+LV021"
   electedBodies:
   - id: "ep"
     electionDates:

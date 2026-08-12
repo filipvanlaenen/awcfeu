@@ -323,13 +323,52 @@ areaConfigurations:
     nl: "Azerbeidzjan"
     no: "Aserbajdsjan"
 - areaCode: "ba"
-  elections:
-    national:
-      dates:
-        0: "≤2026-10"
-    presidential:
-      dates:
-        0: "≤2026-10"
+  electedBodies:
+  - id: "pry"
+    electionDates:
+    - "1996"
+    - "1998"
+    - "2002-10-05"
+    - "2006-10-01"
+    - "2010-10-03"
+    - "2014-10-12"
+    - "2018-10-07"
+    - "2022-10-02"
+    - "2026-10-04"
+    properNames:
+      bs: "Predsjedništvo"
+      hr: "Predsjedništvo"
+      sr: "Предсједништво"
+    translatedNames:
+      de: "Staatspräsidium"
+      en: "Presidency"
+      eo: "Prezidio"
+      fr: "Présidence"
+      nl: "Presidentschap"
+      no: "Presidentskap"
+  - id: "hr"
+    electionDates:
+    - "1996"
+    - "1998"
+    - "2000-11-11"
+    - "2002-10-05"
+    - "2006-10-01"
+    - "2010-10-03"
+    - "2014-10-12"
+    - "2018-10-07"
+    - "2022-10-02"
+    - "2026-10-04"
+    properNames:
+      bs: "Predstavnički dom"
+      hr: "Zastupnički dom"
+      sr: "Представнички дом"
+    translatedNames:
+      de: "Repräsentantenhaus"
+      en: "House of Representatives"
+      eo: "Ĉambro de Reprezentantoj"
+      fr: "Chambre des représentants"
+      nl: "Huis van Afgevaardigden"
+      no: "Representantenes hus"
   translations:
     de: "Bosnien und Herzegowina"
     en: "Bosnia and Herzegovina"

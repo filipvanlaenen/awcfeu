@@ -323,6 +323,15 @@ areaConfigurations:
     nl: "Azerbeidzjan"
     no: "Aserbajdsjan"
 - areaCode: "ba"
+  csvConfiguration:
+    electoralListIds:
+    - "BA199001"
+    - "BA199601"
+    - "BA199002"
+    - "BA199201"
+    - "BA199901"
+    - "BA201301"
+    - "BA200901"
   electedBodies:
   - id: "pry"
     electionDates:

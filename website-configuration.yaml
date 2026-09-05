@@ -2463,6 +2463,8 @@ areaConfigurations:
     - "NL005+NL007"
     - "NL023"
     - "NL024"
+    - "NL025"
+    - "NL026"
   elections:
     european:
       dates:

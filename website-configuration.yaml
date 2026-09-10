@@ -1788,6 +1788,7 @@ areaConfigurations:
     - "IT030"
     - "IT031"
     - "IT032"
+    - "IT033"
   elections:
     european:
       dates:

@@ -2751,7 +2751,7 @@ areaConfigurations:
     - "RS025"
     - "RS026"
     - "RS027"
-    - "RS027+RS015"
+    - "RS015+RS027"
     - "RS002+RS010"
     - "RS021+RS022+RS028"
     - "RS009+RS013+RS020"
@@ -2764,6 +2764,7 @@ areaConfigurations:
     - "RS030"
     - "RS022+RS028"
     - "RS021+RS022+RS028+RS031"
+    - "RS012+RS027"
   elections:
     national:
       dates:

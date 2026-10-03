@@ -2767,23 +2767,58 @@ areaConfigurations:
     - "RS022+RS028"
     - "RS021+RS022+RS028+RS031"
     - "RS012+RS027"
-  elections:
-    national:
-      dates:
-        56: "2000-12-23"
-        57: "2003-12-28"
-        58: "2007-01-21"
-        59: "2008-05-11"
-        60: "2012-05-06"
-        61: "2014-03-16"
-        62: "2016-04-24"
-        63: "2020-06-21"
-        64: "2022-04-03"
-        65: "2023-12-17"
-        66: "≤2027-12-31"
-    presidential:
-      dates:
-        0: "≤2027-04-03"
+  electedBodies:
+  - id: "na"
+    electionDates:
+    - "1990-12-09+1990-12-23"
+    - "1992-12-20"
+    - "1993-12-19"
+    - "1997-09-21"
+    - "2000-12-23"
+    - "2003-12-28"
+    - "2007-01-21"
+    - "2008-05-11"
+    - "2012-05-06"
+    - "2014-03-16"
+    - "2016-04-24"
+    - "2020-06-21"
+    - "2022-04-03"
+    - "2023-12-17"
+    - "2026-10-25"
+    properNames:
+      sr: "Народна скупштина"
+    translatedNames:
+      de: "Nationalversammlung"
+      en: "National Assembly"
+      eo: "Nacia Asembleo"
+      fr: "Assemblée nationale"
+      nl: "Nationale Vergadering"
+      no: "Nasjonalforsamling"
+  electedOffices:
+  - id: "pr"
+    electionDates:
+    - "1990-12-09"
+    - "1992-12-20"
+    - "1997-09-21+1997-10-05"
+    - "1997-12-07+1997-12-21"
+    - "2002-09-29+2002-11-13"
+    - "2002-12-08"
+    - "2003-11-16"
+    - "2004-06-13+2004-06-27"
+    - "2008-01-20+2008-02-03"
+    - "2012-05-06+2012-05-20"
+    - "2017-04-02"
+    - "2022-04-03"
+    - "≤2026-12-26"
+    properNames:
+      rs: "Председник"
+    translatedNames:
+      de: "Präsident"
+      en: "President"
+      eo: "Prezidanto"
+      fr: "Président"
+      nl: "President"
+      no: "President"
   translations:
     de: "Serbien"
     en: "Serbia"

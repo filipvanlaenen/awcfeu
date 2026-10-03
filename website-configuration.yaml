@@ -2907,6 +2907,7 @@ areaConfigurations:
     - "2018-09-09"
     - "2022-09-11"
     - "2026-09-13"
+    - "≤2030-09"
     properNames:
       sv: "Riksdag"
     translatedNames:

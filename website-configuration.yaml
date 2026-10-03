@@ -1923,6 +1923,7 @@ areaConfigurations:
   - id: "kur"
     electionDates:
     - "2026-08-23"
+    - "≤2031-08"
     properNames:
       kk: "Құрылтай"
       ru: "Курултай"

@@ -344,6 +344,7 @@ areaConfigurations:
     - "2018-10-07"
     - "2022-10-02"
     - "2026-10-04"
+    - "≤2030-10"
     properNames:
       bs: "Predsjedništvo"
       hr: "Predsjedništvo"
@@ -367,6 +368,7 @@ areaConfigurations:
     - "2018-10-07"
     - "2022-10-02"
     - "2026-10-04"
+    - "≤2030-10"
     properNames:
       bs: "Predstavnički dom"
       hr: "Zastupnički dom"

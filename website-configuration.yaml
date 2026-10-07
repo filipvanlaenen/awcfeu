@@ -2147,6 +2147,7 @@ areaConfigurations:
     - "2018-10-06"
     - "2022-10-01"
     - "2026-10-03"
+    - "≤2030-10"
     properNames:
       lv: "Saeima"
     translatedNames:

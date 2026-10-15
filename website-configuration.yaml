@@ -544,6 +544,7 @@ areaConfigurations:
     - "BG030"
     - "BG031"
     - "BG032"
+    - "BG033"
   electedBodies:
   - id: "ep"
     electionDates:

@@ -1545,6 +1545,7 @@ areaConfigurations:
     - "GR025"
     - "GR026"
     - "GR027"
+    - "GR028"
   elections:
     european:
       dates:

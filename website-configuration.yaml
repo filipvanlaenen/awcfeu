@@ -1100,6 +1100,7 @@ areaConfigurations:
     - "ES023"
     - "ES024"
     - "ES025"
+    - "ES026"
   electedBodies:
   - id: "cd"
     electionDates:
@@ -1908,6 +1909,9 @@ areaConfigurations:
     - "IT031"
     - "IT032"
     - "IT033"
+    - "IT013+IT029"
+    - "IT008+IT014"
+    - "IT032+IT033"
   elections:
     european:
       dates:

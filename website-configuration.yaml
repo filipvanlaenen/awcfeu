@@ -2909,6 +2909,7 @@ areaConfigurations:
     - "2022-04-03"
     - "2023-12-17"
     - "2026-10-25"
+    - "≤2030-10"
     properNames:
       sr: "Народна скупштина"
     translatedNames:

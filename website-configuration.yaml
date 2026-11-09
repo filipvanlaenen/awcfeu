@@ -1102,6 +1102,8 @@ areaConfigurations:
     - "ES024"
     - "ES025"
     - "ES026"
+    - "ES027"
+    - "ES026+ES027"
   electedBodies:
   - id: "cd"
     electionDates:

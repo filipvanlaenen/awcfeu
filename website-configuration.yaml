@@ -3375,6 +3375,7 @@ areaConfigurations:
     - "UA033"
     - "UA034"
     - "UA035"
+    - "UA036"
   elections:
     national:
       dates:
